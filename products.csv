@@ -1,0 +1,501 @@
+product_id,product_name,category,product_price
+1,Philips Microwave Oven – Red,Home Appliances,447.7
+2,Lenovo Bluetooth Speaker – Blue,Electronics,782.84
+3,LG Clothing Rack – Blue,Retail Goods,467.94
+4,Apple POS Terminal – Blue,Retail Goods,794.47
+5,Asus Smartwatch – White,Electronics,990.85
+6,Samsung Compressor – Grey,Industrial Goods,777.03
+7,Samsung Laser Printer – Green,Office Supplies,802.55
+8,Apple Smartphone – White,Electronics,458.82
+9,Asus Bluetooth Speaker – White,Electronics,687.35
+10,LG Scanner – Grey,Office Supplies,257.02
+11,Asus Shredder – Blue,Office Supplies,932.0
+12,HP Air Purifier – Green,Home Appliances,903.26
+13,Philips Bluetooth Speaker – Grey,Electronics,863.61
+14,Philips Shredder – Grey,Office Supplies,597.97
+15,Asus Laser Printer – Black,Office Supplies,887.56
+16,Philips Hydraulic Jack – Blue,Industrial Goods,803.75
+17,Philips Tablet – Grey,Electronics,927.69
+18,Samsung Air Purifier – Grey,Home Appliances,821.19
+19,Canon Cash Drawer – Black,Retail Goods,668.37
+20,HP Scanner – Grey,Office Supplies,773.46
+21,HP Barcode Scanner – White,Retail Goods,958.43
+22,Sony Electric Kettle – Green,Home Appliances,267.08
+23,Philips Cash Drawer – Blue,Retail Goods,479.49
+24,Asus Microwave Oven – Blue,Home Appliances,985.28
+25,Apple Electric Kettle – Red,Home Appliances,490.82
+26,Asus Barcode Scanner – Grey,Retail Goods,789.26
+27,HP Tablet – White,Electronics,834.71
+28,Samsung Smartphone – Blue,Electronics,476.39
+29,Philips Microwave Oven – Grey,Home Appliances,318.2
+30,Philips Inkjet Printer – Grey,Office Supplies,906.77
+31,LG Smartphone – White,Electronics,825.42
+32,Apple Barcode Scanner – White,Retail Goods,409.51
+33,LG Laptop – White,Electronics,933.1
+34,Samsung Smartwatch – Grey,Electronics,766.69
+35,Apple Air Purifier – Red,Home Appliances,598.22
+36,HP Compressor – Green,Industrial Goods,792.97
+37,Sony Smartwatch – Black,Electronics,952.49
+38,Asus Vacuum Cleaner – Blue,Home Appliances,750.58
+39,Apple Air Purifier – Blue,Home Appliances,776.01
+40,Philips Smartphone – Black,Electronics,344.18
+41,Asus Cash Drawer – White,Retail Goods,527.28
+42,Canon Smartwatch – Blue,Electronics,430.43
+43,Samsung Microwave Oven – Red,Home Appliances,935.44
+44,Canon Laser Printer – White,Office Supplies,816.29
+45,LG POS Terminal – White,Retail Goods,525.7
+46,Asus Laser Printer – Red,Office Supplies,283.11
+47,Philips Hydraulic Jack – Grey,Industrial Goods,263.23
+48,Samsung Tablet – Grey,Electronics,504.24
+49,Canon Scanner – Black,Office Supplies,715.54
+50,Lenovo Microwave Oven – Grey,Home Appliances,263.18
+51,Samsung Welding Machine – Blue,Industrial Goods,401.0
+52,HP Clothing Rack – Grey,Retail Goods,804.58
+53,Canon Clothing Rack – Black,Retail Goods,698.92
+54,LG Laser Printer – Black,Office Supplies,406.89
+55,Dell Air Purifier – Grey,Home Appliances,795.59
+56,Canon LED Monitor – White,Electronics,373.94
+57,Samsung Vacuum Cleaner – Blue,Home Appliances,604.09
+58,Apple Scanner – Red,Office Supplies,389.61
+59,Lenovo Bluetooth Speaker – Grey,Electronics,542.81
+60,Philips Welding Machine – White,Industrial Goods,992.23
+61,Philips Vacuum Cleaner – Green,Home Appliances,669.64
+62,Samsung Scanner – Black,Office Supplies,971.7
+63,Philips Laser Printer – Blue,Office Supplies,993.53
+64,Dell Electric Kettle – Black,Home Appliances,267.26
+65,Philips Microwave Oven – Red,Home Appliances,306.95
+66,HP Scanner – Grey,Office Supplies,727.38
+67,Asus Clothing Rack – White,Retail Goods,684.38
+68,Asus Cash Drawer – Grey,Retail Goods,792.9
+69,Samsung Hydraulic Jack – White,Industrial Goods,747.06
+70,Sony Electric Kettle – Blue,Home Appliances,911.21
+71,Sony Electric Kettle – Black,Home Appliances,487.06
+72,Lenovo Hydraulic Jack – Grey,Industrial Goods,726.46
+73,Sony Electric Kettle – White,Home Appliances,815.13
+74,Apple Microwave Oven – Grey,Home Appliances,902.22
+75,Samsung Smartwatch – Green,Electronics,477.11
+76,Lenovo Hydraulic Jack – Green,Industrial Goods,688.15
+77,HP Electric Kettle – White,Home Appliances,953.6
+78,Samsung Smartphone – Red,Electronics,861.73
+79,HP Vacuum Cleaner – Green,Home Appliances,676.43
+80,HP POS Terminal – Black,Retail Goods,577.1
+81,Dell Electric Kettle – Green,Home Appliances,660.42
+82,LG Hydraulic Jack – White,Industrial Goods,847.93
+83,Philips Air Purifier – Black,Home Appliances,810.68
+84,Sony Tablet – Grey,Electronics,251.41
+85,Canon Clothing Rack – Grey,Retail Goods,593.65
+86,LG Barcode Scanner – White,Retail Goods,530.04
+87,Dell Electric Kettle – Blue,Home Appliances,336.36
+88,Lenovo Laser Printer – Green,Office Supplies,588.67
+89,Canon Clothing Rack – White,Retail Goods,212.41
+90,Dell Vacuum Cleaner – Grey,Home Appliances,364.28
+91,Asus Electric Kettle – Blue,Home Appliances,482.76
+92,Philips Vacuum Cleaner – Blue,Home Appliances,637.85
+93,HP LED Monitor – Red,Electronics,385.99
+94,HP POS Terminal – White,Retail Goods,803.84
+95,HP Electric Kettle – Black,Home Appliances,329.84
+96,Apple Clothing Rack – Red,Retail Goods,898.55
+97,Philips POS Terminal – Grey,Retail Goods,709.44
+98,Asus Shredder – Black,Office Supplies,339.79
+99,Apple Scanner – Grey,Office Supplies,910.32
+100,Philips Microwave Oven – Red,Home Appliances,846.65
+101,LG Laser Printer – Blue,Office Supplies,571.31
+102,Lenovo Hydraulic Jack – Green,Industrial Goods,361.61
+103,HP LED Monitor – Black,Electronics,333.84
+104,Canon Cash Drawer – Black,Retail Goods,888.53
+105,Apple Microwave Oven – Red,Home Appliances,983.97
+106,Lenovo Cash Drawer – White,Retail Goods,633.37
+107,Samsung Inkjet Printer – Red,Office Supplies,607.8
+108,Philips Barcode Scanner – Grey,Retail Goods,326.33
+109,HP Compressor – White,Industrial Goods,492.58
+110,HP Air Purifier – Grey,Home Appliances,706.22
+111,Dell Tablet – Red,Electronics,369.28
+112,LG Laptop – Green,Electronics,812.09
+113,HP Smartwatch – Blue,Electronics,635.73
+114,Sony Compressor – Green,Industrial Goods,774.07
+115,Sony Microwave Oven – White,Home Appliances,464.31
+116,LG Bluetooth Speaker – Green,Electronics,457.39
+117,Philips Microwave Oven – White,Home Appliances,738.78
+118,Asus Inkjet Printer – Red,Office Supplies,528.77
+119,Sony POS Terminal – Red,Retail Goods,418.22
+120,Dell Clothing Rack – Grey,Retail Goods,698.13
+121,Canon Hydraulic Jack – White,Industrial Goods,340.27
+122,LG Cash Drawer – Green,Retail Goods,972.16
+123,Philips Laptop – Grey,Electronics,680.37
+124,Apple Tablet – White,Electronics,244.09
+125,Canon Barcode Scanner – Red,Retail Goods,768.51
+126,LG Electric Kettle – Black,Home Appliances,608.7
+127,Dell Shredder – Grey,Office Supplies,326.32
+128,Asus Microwave Oven – Red,Home Appliances,351.82
+129,Canon Inkjet Printer – White,Office Supplies,242.26
+130,Lenovo Clothing Rack – Red,Retail Goods,658.63
+131,HP Smartwatch – Green,Electronics,908.09
+132,Philips Microwave Oven – White,Home Appliances,565.01
+133,Apple Power Drill – Green,Industrial Goods,476.96
+134,Asus Clothing Rack – Green,Retail Goods,255.55
+135,Dell Microwave Oven – Red,Home Appliances,536.72
+136,Samsung Bluetooth Speaker – White,Electronics,274.47
+137,Canon Smartwatch – Black,Electronics,608.73
+138,Lenovo Laser Printer – Grey,Office Supplies,225.62
+139,Samsung Cash Drawer – Black,Retail Goods,943.05
+140,Philips Air Purifier – Grey,Home Appliances,361.71
+141,LG Tablet – Grey,Electronics,547.53
+142,Philips Electric Kettle – Green,Home Appliances,587.05
+143,Asus Projector – Green,Office Supplies,679.73
+144,Apple Microwave Oven – White,Home Appliances,825.23
+145,LG Smartwatch – White,Electronics,276.41
+146,Apple Cash Drawer – Blue,Retail Goods,379.51
+147,Lenovo Scanner – White,Office Supplies,809.42
+148,Philips Microwave Oven – Blue,Home Appliances,878.81
+149,Samsung Shredder – Blue,Office Supplies,885.21
+150,Apple Barcode Scanner – Red,Retail Goods,923.08
+151,LG Welding Machine – Grey,Industrial Goods,265.22
+152,LG Inkjet Printer – Grey,Office Supplies,987.9
+153,HP Shredder – Blue,Office Supplies,756.22
+154,Samsung Air Purifier – White,Home Appliances,517.6
+155,Asus Cash Drawer – Green,Retail Goods,308.74
+156,Lenovo Projector – Green,Office Supplies,439.2
+157,HP Microwave Oven – Red,Home Appliances,820.97
+158,Samsung Welding Machine – Green,Industrial Goods,250.25
+159,Canon Vacuum Cleaner – Red,Home Appliances,539.34
+160,Sony Clothing Rack – Red,Retail Goods,288.23
+161,Samsung Welding Machine – White,Industrial Goods,989.92
+162,LG Laptop – Red,Electronics,278.63
+163,Philips Smartphone – Grey,Electronics,917.95
+164,Apple Barcode Scanner – Black,Retail Goods,834.36
+165,Dell Smartphone – Blue,Electronics,741.28
+166,Sony Compressor – Black,Industrial Goods,559.71
+167,Canon Shredder – Red,Office Supplies,778.83
+168,Lenovo Scanner – Grey,Office Supplies,714.72
+169,Lenovo Microwave Oven – Blue,Home Appliances,891.58
+170,Philips Clothing Rack – Grey,Retail Goods,810.6
+171,Samsung Laser Printer – White,Office Supplies,579.0
+172,Apple Scanner – Blue,Office Supplies,210.44
+173,Lenovo Shredder – Green,Office Supplies,566.37
+174,Canon Electric Kettle – White,Home Appliances,574.76
+175,Samsung Barcode Scanner – Grey,Retail Goods,953.09
+176,HP Microwave Oven – Green,Home Appliances,502.32
+177,Sony LED Monitor – Green,Electronics,800.73
+178,HP Bluetooth Speaker – Green,Electronics,332.96
+179,Lenovo Air Purifier – Red,Home Appliances,368.76
+180,LG Hydraulic Jack – Black,Industrial Goods,814.16
+181,Philips Scanner – White,Office Supplies,296.4
+182,Canon Bluetooth Speaker – White,Electronics,308.9
+183,LG Vacuum Cleaner – Blue,Home Appliances,460.52
+184,LG Laser Printer – Black,Office Supplies,782.92
+185,HP Barcode Scanner – Black,Retail Goods,320.83
+186,Canon LED Monitor – Blue,Electronics,841.64
+187,Asus Air Purifier – Grey,Home Appliances,466.51
+188,Canon Microwave Oven – Green,Home Appliances,984.02
+189,Asus Smartphone – Red,Electronics,941.96
+190,Sony Power Drill – Green,Industrial Goods,462.23
+191,Canon Bluetooth Speaker – Red,Electronics,707.65
+192,Sony Laser Printer – Grey,Office Supplies,846.92
+193,HP Microwave Oven – Green,Home Appliances,495.69
+194,Lenovo Smartphone – Red,Electronics,479.18
+195,Canon Power Drill – Blue,Industrial Goods,574.57
+196,Canon Smartwatch – Green,Electronics,374.75
+197,LG Shredder – Black,Office Supplies,578.14
+198,Samsung Shredder – Red,Office Supplies,508.2
+199,Apple Laser Printer – Blue,Office Supplies,282.15
+200,Lenovo Compressor – White,Industrial Goods,540.18
+201,LG Air Purifier – Black,Home Appliances,419.79
+202,Philips Barcode Scanner – White,Retail Goods,353.31
+203,Samsung Shredder – Blue,Office Supplies,369.08
+204,LG Power Drill – Green,Industrial Goods,843.95
+205,Dell Power Drill – Black,Industrial Goods,448.26
+206,Asus Power Drill – Green,Industrial Goods,352.08
+207,Samsung Scanner – Black,Office Supplies,618.67
+208,Apple Inkjet Printer – Black,Office Supplies,288.98
+209,HP Inkjet Printer – Green,Office Supplies,733.84
+210,Samsung Vacuum Cleaner – Red,Home Appliances,892.73
+211,LG POS Terminal – Grey,Retail Goods,666.83
+212,HP Electric Kettle – Blue,Home Appliances,435.91
+213,HP Power Drill – Black,Industrial Goods,548.41
+214,Philips Projector – Blue,Office Supplies,995.65
+215,Asus Air Purifier – Black,Home Appliances,926.83
+216,Philips Bluetooth Speaker – Red,Electronics,735.27
+217,Lenovo Bluetooth Speaker – Blue,Electronics,614.72
+218,Dell Compressor – Blue,Industrial Goods,659.75
+219,LG Vacuum Cleaner – Red,Home Appliances,351.89
+220,Lenovo Electric Kettle – White,Home Appliances,248.23
+221,Asus Microwave Oven – Green,Home Appliances,937.21
+222,Sony Compressor – Grey,Industrial Goods,322.35
+223,Lenovo Clothing Rack – Blue,Retail Goods,959.21
+224,Sony Shredder – White,Office Supplies,207.38
+225,HP Bluetooth Speaker – Green,Electronics,623.62
+226,Asus Barcode Scanner – Grey,Retail Goods,813.14
+227,LG Air Purifier – White,Home Appliances,775.25
+228,Dell Tablet – Grey,Electronics,475.84
+229,Samsung LED Monitor – White,Electronics,751.24
+230,Dell LED Monitor – Grey,Electronics,860.08
+231,Canon Laser Printer – White,Office Supplies,421.98
+232,HP Laptop – White,Electronics,933.14
+233,Dell Smartwatch – Green,Electronics,932.25
+234,Dell Projector – Black,Office Supplies,506.13
+235,Sony Cash Drawer – Grey,Retail Goods,903.98
+236,Asus Air Purifier – Green,Home Appliances,639.23
+237,Samsung Power Drill – Red,Industrial Goods,705.56
+238,Samsung POS Terminal – White,Retail Goods,471.51
+239,Apple Inkjet Printer – Red,Office Supplies,770.75
+240,Philips Welding Machine – Grey,Industrial Goods,261.87
+241,HP Welding Machine – Grey,Industrial Goods,521.7
+242,Dell Air Purifier – Red,Home Appliances,818.34
+243,HP Projector – Black,Office Supplies,883.08
+244,LG Hydraulic Jack – Blue,Industrial Goods,280.18
+245,Samsung POS Terminal – Green,Retail Goods,387.22
+246,Apple Smartphone – Green,Electronics,780.8
+247,LG Microwave Oven – Green,Home Appliances,923.06
+248,LG Power Drill – Blue,Industrial Goods,829.87
+249,Lenovo Projector – Red,Office Supplies,636.56
+250,Asus Tablet – Grey,Electronics,538.73
+251,Samsung Air Purifier – Green,Home Appliances,231.95
+252,Apple POS Terminal – White,Retail Goods,532.14
+253,Dell POS Terminal – Grey,Retail Goods,789.89
+254,Canon Power Drill – Green,Industrial Goods,906.49
+255,Apple Laptop – Blue,Electronics,899.76
+256,Apple Smartphone – Red,Electronics,670.4
+257,Sony Microwave Oven – Green,Home Appliances,865.02
+258,Dell Microwave Oven – Green,Home Appliances,493.56
+259,LG Electric Kettle – Blue,Home Appliances,703.95
+260,Dell Vacuum Cleaner – Green,Home Appliances,551.43
+261,Asus Welding Machine – Green,Industrial Goods,213.88
+262,Apple Power Drill – White,Industrial Goods,361.92
+263,Sony Clothing Rack – Blue,Retail Goods,383.12
+264,Samsung Cash Drawer – Green,Retail Goods,746.64
+265,Canon Compressor – Blue,Industrial Goods,961.65
+266,Canon POS Terminal – Black,Retail Goods,651.96
+267,LG Laptop – Black,Electronics,943.93
+268,Samsung Inkjet Printer – Red,Office Supplies,704.63
+269,Samsung POS Terminal – Grey,Retail Goods,700.48
+270,Dell Hydraulic Jack – Red,Industrial Goods,523.28
+271,Dell LED Monitor – White,Electronics,234.64
+272,HP Power Drill – Blue,Industrial Goods,560.08
+273,Apple Power Drill – White,Industrial Goods,502.73
+274,Apple Hydraulic Jack – White,Industrial Goods,538.27
+275,Philips Power Drill – Black,Industrial Goods,982.32
+276,Canon Clothing Rack – Grey,Retail Goods,918.72
+277,Canon Barcode Scanner – Green,Retail Goods,236.27
+278,HP Hydraulic Jack – White,Industrial Goods,834.14
+279,Sony Cash Drawer – Black,Retail Goods,352.62
+280,Lenovo Laser Printer – Grey,Office Supplies,492.93
+281,Sony LED Monitor – Red,Electronics,238.44
+282,Philips Tablet – Blue,Electronics,618.13
+283,Philips LED Monitor – Red,Electronics,737.73
+284,Sony Air Purifier – Black,Home Appliances,316.22
+285,Apple Electric Kettle – Grey,Home Appliances,299.86
+286,Dell POS Terminal – Grey,Retail Goods,449.1
+287,Asus POS Terminal – Black,Retail Goods,276.49
+288,Philips Shredder – Red,Office Supplies,292.58
+289,Lenovo Inkjet Printer – Blue,Office Supplies,271.16
+290,Dell Inkjet Printer – White,Office Supplies,223.54
+291,HP Microwave Oven – Green,Home Appliances,352.07
+292,Sony Barcode Scanner – Red,Retail Goods,240.6
+293,Apple Projector – Black,Office Supplies,420.13
+294,Dell Projector – White,Office Supplies,552.68
+295,LG Electric Kettle – Grey,Home Appliances,613.97
+296,Samsung Electric Kettle – Grey,Home Appliances,851.59
+297,Asus Electric Kettle – Red,Home Appliances,469.96
+298,Asus Shredder – White,Office Supplies,427.03
+299,Dell Laptop – White,Electronics,470.53
+300,Lenovo Electric Kettle – Black,Home Appliances,293.53
+301,Samsung Clothing Rack – Red,Retail Goods,859.21
+302,Canon POS Terminal – Black,Retail Goods,240.57
+303,HP Hydraulic Jack – Blue,Industrial Goods,469.4
+304,Dell Electric Kettle – Red,Home Appliances,287.62
+305,Asus Vacuum Cleaner – Black,Home Appliances,457.22
+306,HP POS Terminal – White,Retail Goods,513.62
+307,Canon Shredder – Blue,Office Supplies,727.44
+308,LG Projector – Black,Office Supplies,955.13
+309,Samsung Barcode Scanner – Blue,Retail Goods,900.18
+310,LG Barcode Scanner – White,Retail Goods,530.06
+311,Asus Inkjet Printer – Red,Office Supplies,247.96
+312,HP LED Monitor – Grey,Electronics,734.97
+313,LG Clothing Rack – Black,Retail Goods,436.46
+314,LG Bluetooth Speaker – Red,Electronics,556.22
+315,Lenovo Shredder – Green,Office Supplies,230.27
+316,HP Hydraulic Jack – Red,Industrial Goods,594.76
+317,Philips Projector – Grey,Office Supplies,993.28
+318,Samsung Scanner – Green,Office Supplies,703.35
+319,Apple POS Terminal – Grey,Retail Goods,530.53
+320,Philips Cash Drawer – Grey,Retail Goods,353.19
+321,Samsung Hydraulic Jack – Blue,Industrial Goods,747.15
+322,LG Scanner – Red,Office Supplies,768.84
+323,Dell Power Drill – Red,Industrial Goods,318.93
+324,Philips Smartphone – White,Electronics,584.08
+325,Lenovo Clothing Rack – White,Retail Goods,334.06
+326,Dell Air Purifier – Red,Home Appliances,412.87
+327,Asus Laser Printer – White,Office Supplies,669.42
+328,Philips Welding Machine – Blue,Industrial Goods,698.91
+329,HP POS Terminal – Red,Retail Goods,534.87
+330,Apple Smartphone – Green,Electronics,732.47
+331,Philips Smartwatch – Grey,Electronics,860.6
+332,Lenovo Barcode Scanner – White,Retail Goods,418.31
+333,Philips Cash Drawer – Green,Retail Goods,848.39
+334,Philips Microwave Oven – Blue,Home Appliances,287.57
+335,Asus Scanner – White,Office Supplies,256.68
+336,Apple Cash Drawer – Red,Retail Goods,631.58
+337,Dell LED Monitor – Grey,Electronics,892.09
+338,LG Projector – Green,Office Supplies,275.3
+339,HP Electric Kettle – Green,Home Appliances,942.52
+340,HP Hydraulic Jack – Black,Industrial Goods,687.73
+341,Samsung Cash Drawer – Black,Retail Goods,805.09
+342,Samsung Welding Machine – Red,Industrial Goods,777.03
+343,Philips Microwave Oven – Green,Home Appliances,744.88
+344,Apple POS Terminal – Black,Retail Goods,205.23
+345,Philips Smartphone – Blue,Electronics,309.02
+346,Dell Laptop – Black,Electronics,545.12
+347,HP Vacuum Cleaner – Black,Home Appliances,853.19
+348,Lenovo Bluetooth Speaker – Green,Electronics,983.62
+349,LG Cash Drawer – Black,Retail Goods,641.26
+350,LG Tablet – Grey,Electronics,815.5
+351,HP Shredder – Grey,Office Supplies,292.17
+352,Lenovo Microwave Oven – Red,Home Appliances,536.13
+353,Philips POS Terminal – White,Retail Goods,601.06
+354,LG Microwave Oven – Blue,Home Appliances,271.28
+355,Asus Vacuum Cleaner – Black,Home Appliances,533.62
+356,Asus Air Purifier – Red,Home Appliances,283.15
+357,Philips Scanner – Green,Office Supplies,406.66
+358,Sony Smartphone – Green,Electronics,941.69
+359,Canon Power Drill – Red,Industrial Goods,775.39
+360,Lenovo Barcode Scanner – Grey,Retail Goods,772.12
+361,LG Cash Drawer – Red,Retail Goods,819.66
+362,Samsung Vacuum Cleaner – Red,Home Appliances,764.74
+363,HP Hydraulic Jack – Blue,Industrial Goods,405.82
+364,Samsung Scanner – Green,Office Supplies,717.26
+365,HP Hydraulic Jack – Blue,Industrial Goods,944.92
+366,Lenovo Microwave Oven – White,Home Appliances,465.13
+367,Philips Inkjet Printer – Green,Office Supplies,229.38
+368,HP Cash Drawer – Blue,Retail Goods,576.63
+369,Asus Inkjet Printer – Green,Office Supplies,559.39
+370,Philips Vacuum Cleaner – Blue,Home Appliances,273.79
+371,Lenovo Vacuum Cleaner – Black,Home Appliances,508.53
+372,HP Laptop – Red,Electronics,259.33
+373,Apple Hydraulic Jack – Red,Industrial Goods,545.92
+374,Dell Power Drill – White,Industrial Goods,675.53
+375,Canon Electric Kettle – White,Home Appliances,556.13
+376,Lenovo LED Monitor – Black,Electronics,609.49
+377,Canon Smartphone – Blue,Electronics,313.69
+378,Lenovo Vacuum Cleaner – Grey,Home Appliances,717.62
+379,Apple Electric Kettle – Green,Home Appliances,780.16
+380,Sony Tablet – Black,Electronics,678.0
+381,HP Air Purifier – Black,Home Appliances,598.5
+382,HP Shredder – Black,Office Supplies,847.54
+383,HP Electric Kettle – Grey,Home Appliances,982.39
+384,Sony Air Purifier – Grey,Home Appliances,552.18
+385,Philips Vacuum Cleaner – Blue,Home Appliances,702.56
+386,Philips Tablet – Black,Electronics,469.12
+387,Samsung Compressor – Blue,Industrial Goods,673.78
+388,Sony Scanner – Green,Office Supplies,348.76
+389,Philips Vacuum Cleaner – Grey,Home Appliances,916.27
+390,HP POS Terminal – Blue,Retail Goods,645.25
+391,Samsung Welding Machine – Grey,Industrial Goods,791.49
+392,LG Clothing Rack – Blue,Retail Goods,307.83
+393,Canon Scanner – White,Office Supplies,619.82
+394,Philips Air Purifier – Green,Home Appliances,611.59
+395,Asus Projector – Green,Office Supplies,365.92
+396,Sony POS Terminal – Red,Retail Goods,705.59
+397,Lenovo Electric Kettle – Grey,Home Appliances,589.69
+398,LG Shredder – Red,Office Supplies,896.85
+399,Apple Vacuum Cleaner – Black,Home Appliances,799.78
+400,Canon Vacuum Cleaner – Black,Home Appliances,484.52
+401,Philips LED Monitor – Red,Electronics,934.9
+402,Lenovo Air Purifier – Green,Home Appliances,914.75
+403,Asus Cash Drawer – Black,Retail Goods,794.94
+404,Asus LED Monitor – Red,Electronics,463.94
+405,Sony Power Drill – Red,Industrial Goods,254.55
+406,LG Scanner – Black,Office Supplies,467.17
+407,Lenovo Scanner – Green,Office Supplies,294.15
+408,Philips Smartphone – White,Electronics,328.27
+409,LG Electric Kettle – White,Home Appliances,454.02
+410,Canon Scanner – Green,Office Supplies,802.1
+411,Apple Clothing Rack – White,Retail Goods,343.55
+412,HP Cash Drawer – Grey,Retail Goods,747.77
+413,LG Inkjet Printer – White,Office Supplies,671.39
+414,Lenovo Shredder – Green,Office Supplies,201.28
+415,Samsung Welding Machine – Blue,Industrial Goods,676.94
+416,Lenovo Welding Machine – Grey,Industrial Goods,988.28
+417,Sony Electric Kettle – Green,Home Appliances,654.65
+418,Samsung Vacuum Cleaner – Black,Home Appliances,545.4
+419,Lenovo Power Drill – Green,Industrial Goods,346.13
+420,Apple Electric Kettle – White,Home Appliances,417.23
+421,Sony Scanner – Green,Office Supplies,578.16
+422,LG Clothing Rack – Grey,Retail Goods,542.89
+423,Sony Smartwatch – Blue,Electronics,914.29
+424,HP Air Purifier – Grey,Home Appliances,324.05
+425,Samsung Barcode Scanner – Black,Retail Goods,257.44
+426,Canon Cash Drawer – Black,Retail Goods,968.99
+427,Asus Clothing Rack – Red,Retail Goods,547.34
+428,LG Clothing Rack – Grey,Retail Goods,583.23
+429,Canon Projector – Black,Office Supplies,977.27
+430,HP Shredder – Blue,Office Supplies,886.68
+431,Apple Welding Machine – Red,Industrial Goods,625.64
+432,Sony Shredder – Green,Office Supplies,465.63
+433,Lenovo Tablet – Grey,Electronics,856.53
+434,Asus Cash Drawer – Red,Retail Goods,352.28
+435,HP POS Terminal – White,Retail Goods,776.52
+436,Sony Hydraulic Jack – Black,Industrial Goods,232.31
+437,Apple Shredder – Green,Office Supplies,801.87
+438,Lenovo Inkjet Printer – Red,Office Supplies,233.41
+439,Lenovo Laptop – Black,Electronics,204.31
+440,Sony Compressor – White,Industrial Goods,374.78
+441,Philips Tablet – Black,Electronics,684.41
+442,Apple Smartphone – Black,Electronics,804.93
+443,Dell Cash Drawer – Blue,Retail Goods,901.41
+444,Asus Compressor – White,Industrial Goods,482.84
+445,Apple Vacuum Cleaner – Grey,Home Appliances,997.68
+446,Lenovo Tablet – Black,Electronics,498.64
+447,Samsung Welding Machine – Grey,Industrial Goods,857.94
+448,Philips Inkjet Printer – Black,Office Supplies,623.06
+449,Apple LED Monitor – Black,Electronics,566.75
+450,Philips Smartphone – Red,Electronics,377.65
+451,Samsung Bluetooth Speaker – Green,Electronics,834.16
+452,Sony LED Monitor – Blue,Electronics,289.62
+453,Sony Shredder – Black,Office Supplies,245.55
+454,Canon Electric Kettle – Grey,Home Appliances,367.93
+455,Apple Cash Drawer – Grey,Retail Goods,463.34
+456,Asus Hydraulic Jack – White,Industrial Goods,830.35
+457,Apple Compressor – White,Industrial Goods,401.68
+458,Dell Air Purifier – Red,Home Appliances,610.6
+459,Samsung Power Drill – Green,Industrial Goods,827.91
+460,Samsung Electric Kettle – Grey,Home Appliances,375.21
+461,Philips Compressor – Red,Industrial Goods,808.51
+462,Philips Scanner – White,Office Supplies,204.47
+463,Sony Welding Machine – Grey,Industrial Goods,371.04
+464,Philips Clothing Rack – Blue,Retail Goods,639.82
+465,LG LED Monitor – White,Electronics,290.87
+466,Philips Microwave Oven – Green,Home Appliances,616.76
+467,Sony Compressor – Red,Industrial Goods,298.34
+468,Asus Cash Drawer – Grey,Retail Goods,818.29
+469,Lenovo Barcode Scanner – Blue,Retail Goods,369.0
+470,HP Clothing Rack – Black,Retail Goods,947.38
+471,LG Welding Machine – White,Industrial Goods,662.94
+472,Samsung LED Monitor – Blue,Electronics,720.51
+473,Asus Laser Printer – Green,Office Supplies,496.32
+474,Lenovo Electric Kettle – White,Home Appliances,622.52
+475,Asus Air Purifier – Red,Home Appliances,804.65
+476,Canon Vacuum Cleaner – Red,Home Appliances,774.15
+477,Samsung Scanner – Blue,Office Supplies,929.31
+478,HP Bluetooth Speaker – Red,Electronics,545.4
+479,LG Tablet – Black,Electronics,561.89
+480,Apple LED Monitor – Blue,Electronics,567.85
+481,Philips Microwave Oven – Black,Home Appliances,721.83
+482,Canon Electric Kettle – Red,Home Appliances,690.38
+483,HP Electric Kettle – Red,Home Appliances,476.2
+484,Canon Barcode Scanner – White,Retail Goods,236.24
+485,Apple Microwave Oven – Grey,Home Appliances,715.58
+486,Asus Inkjet Printer – Black,Office Supplies,543.32
+487,Samsung Electric Kettle – Black,Home Appliances,886.67
+488,Philips Compressor – White,Industrial Goods,504.57
+489,HP Laptop – Grey,Electronics,628.48
+490,LG Scanner – Blue,Office Supplies,973.57
+491,LG LED Monitor – Blue,Electronics,633.7
+492,Philips Inkjet Printer – Red,Office Supplies,295.69
+493,HP Barcode Scanner – Blue,Retail Goods,931.25
+494,Apple Scanner – Black,Office Supplies,409.29
+495,Philips Barcode Scanner – Green,Retail Goods,746.64
+496,Sony LED Monitor – Black,Electronics,397.89
+497,Asus Tablet – Green,Electronics,635.61
+498,Philips Electric Kettle – Red,Home Appliances,309.95
+499,LG Microwave Oven – White,Home Appliances,508.34
+500,Philips Microwave Oven – Grey,Home Appliances,338.93

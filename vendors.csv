@@ -1,0 +1,501 @@
+vendor_id,vendor_name,contact_person,contact_email,phone_number,country,registration_date,vendor_rating,active_status
+1,Weber Inc,Brittany Kramer,bensonjacqueline@example.com,001-788-609-9776x379,Wallis and Futuna,2024-04-23,4.8,Active
+2,JONES AND SONS,Jeffrey Simpson,tleonard@example.com,600-387-1266,Spain,2020-12-12,2.9,Active
+3,fox-williams,Christopher Coleman,huffjames@example.com,500-895-8191,Bangladesh,2021-02-12,4.9,Active
+4,King-Sullivan,Jim Smith,garciamonica@example.net,+1-368-545-5636x984,Ireland,2024-12-11,4.9,Inactive
+5,Gonzalez PLC,Gary Velez,ebruce@example.org,001-844-661-8081x697,Pakistan,2021-02-27,4.8,Inactive
+6, hernandez plc  ,Marie Cruz,xparks@example.com,586-563-1378x879,Northern Mariana Islands,2021-07-12,4.3,Inactive
+7,"kerr, holland and brown",Angela Holloway,simpsonnatalie@example.net,+1-967-567-5582x835,Holy See (Vatican City State),2024-02-17,4.5,Active
+8, TAYLOR GROUP  ,Gloria Johnston,ijones@example.com,659.767.3561x57779,Denmark,2024-11-03,4.9,Inactive
+9,"Bennett, Baker and Savage",Randall Proctor,peter57@example.com,4068765536,Thailand,2021-03-29,3.1,Inactive
+10,"KING, BROWN AND BOOKER",Nicole Garrett,whitejoseph@example.com,7745115478,Kuwait,2024-07-01,4.2,Inactive
+11,Carroll-Chen,Manuel Robertson,hannah38@example.org,506.284.4924,Lebanon,2021-06-24,3.2,Inactive
+12,day llc,Kevin Hill,schultzaaron@example.org,001-922-465-6268x53831,Albania,2021-05-18,4.1,Active
+13,"Hodges, Lawrence and White",Nicole Thomas,hroberts@example.com,001-922-644-7045,Barbados,2025-07-06,2.8,Inactive
+14,"Smith, Lowe and Scott",Sandra Stephens,yvonne40@example.net,494.480.0286,Greenland,2025-04-17,2.5,Inactive
+15,kelly and sons,Dylan Johnson,kelleynicholas@example.com,(858)883-7631x038,Barbados,2020-10-29,3.0,Active
+16," jordan, alexander and williams  ",Thomas Lewis,uwatson@example.net,640-227-1820x68522,Somalia,2020-11-13,4.0,Active
+17,MACK-ANDERSON,Christine Castro,wcarpenter@example.org,5405539614,Gabon,2020-10-23,3.8,Inactive
+18,Valenzuela Ltd,Danielle Weber DVM,michaellittle@example.com,296-287-2639,Portugal,2020-09-25,3.9,Active
+19,"Nelson, Day and Martinez",Jose Moore,fieldswilliam@example.com,831.557.7011x64814,China,2021-09-16,2.8,Inactive
+20," Fowler, Larson and Mclaughlin  ",Tyler Harper,joshua76@example.com,(304)580-1691x0211,Greece,2025-05-29,3.7,Active
+21,"harmon, wood and thomas",Mckenzie Johnson,thardin@example.org,001-208-903-4382x982,United Arab Emirates,2025-06-19,4.9,Inactive
+22, Hodges Ltd  ,Keith Browning,jonesphyllis@example.org,(950)849-3352x2992,British Virgin Islands,2024-08-17,2.8,Inactive
+23,"Cummings, Warner and Hudson",Thomas Richards,norrismartha@example.net,870.842.9279x2769,Montenegro,2023-02-01,3.2,Active
+24,Williams-Johnson,Daryl Gardner,marissamontgomery@example.net,766.987.3763x93697,Turkey,2024-06-09,2.6,Active
+25,LUCAS PLC,Mr. Frederick Reed,matthew65@example.com,550-316-1761,Norfolk Island,2023-11-29,3.9,Active
+26,Parker Group,Anthony Sanders,tchavez@example.org,5418376992,Tuvalu,2021-08-29,4.7,Active
+27,Marquez Inc,Joseph Yoder,andrewstewart@example.com,6279839333,Comoros,2020-07-10,3.8,Inactive
+28,"Payne, Cameron and Crawford",Angela Nielsen,valerie49@example.net,(360)414-8188x563,Cocos (Keeling) Islands,2023-08-18,3.6,Active
+29,Griffin Inc,Lindsay Roberts,reyessarah@example.com,(347)246-5055,United States of America,2020-12-23,4.2,Inactive
+30,montgomery-jarvis,Mark Powell,pagesean@example.org,(323)744-0018,Iran,2022-03-09,3.3,Inactive
+31,"Klein, Branch and Bailey",Paul Underwood,kathryn46@example.net,434-952-1253x141,Bouvet Island (Bouvetoya),2020-12-11,3.0,Inactive
+32, Thomas-Henderson  ,John Andrade,daniel77@example.net,204-751-5130x5220,Micronesia,2025-01-02,2.6,Active
+33,Aguilar PLC,Alexander Burgess,hicksashley@example.com,723-709-8361x6830,French Polynesia,2021-06-13,3.0,Active
+34,HERNANDEZ LLC,Anita Fox,clayton68@example.net,2494303046,Panama,2023-12-14,3.1,Inactive
+35,Mcgee-White,Amy Ochoa,justinhoward@example.com,+1-426-236-6655,Sweden,2023-07-05,3.1,Active
+36,"HUTCHINSON, SNYDER AND PHILLIPS",Brandon Cuevas,eruiz@example.net,+1-540-472-3223x5584,Andorra,2024-01-16,4.6,Active
+37," Wilson, Ayala and Brennan  ",Jeffery Jenkins,nathaniel88@example.com,957.634.0640x18347,Japan,2024-05-03,2.6,Inactive
+38,"Brooks, Bowen and Everett",Julie Kim,nathancooper@example.org,546.495.2481,Mexico,2025-05-15,3.1,Inactive
+39,"Suarez, Smith and Lewis",Jennifer White,williamsonvincent@example.org,001-455-263-4313,Congo,2021-09-21,2.6,Inactive
+40,Thornton-Taylor,Andrew Thomas,cespinoza@example.com,+1-639-676-7951,Sweden,2020-12-15,3.0,Inactive
+41,"Mcdonald, Roth and Flores",Karen Martinez,mdecker@example.org,911.792.5689,Guam,2023-12-02,4.3,Active
+42,"Wood, Martin and Henderson",Cynthia Buck,qpeters@example.net,001-245-564-7317x28093,Greenland,2025-05-30,3.7,Inactive
+43,Osborne-Wilkins,Daniel Daniel,emorgan@example.net,(574)298-1257x451,Guadeloupe,2020-11-07,3.4,Inactive
+44,Martin and Sons,Patrick Smith,tracyscott@example.net,662-858-8848x537,Barbados,2021-02-06,4.2,Inactive
+45,Ward PLC,Michelle Gray,ljones@example.com,265-846-6957,Mauritius,2024-09-01,2.7,Inactive
+46,"Fuller, Conley and Blake",Richard Quinn,jennifer90@example.com,846.457.5413x570,Venezuela,2022-06-05,2.9,Active
+47,Morrow Ltd,Carrie Dodson,weeksanthony@example.com,(845)680-5470x475,Croatia,2020-12-10,2.6,Inactive
+48," Martin, Shaw and Hughes  ",Jacob Molina,ryang@example.net,+1-743-506-9249x49011,Suriname,2022-11-06,4.6,Active
+49, Schneider LLC  ,Melissa Martinez,jamesgregory@example.org,8792023846,Kuwait,2025-06-16,4.5,Inactive
+50,"Hudson, Johnson and Robinson",Katrina Wang,ashleywilliams@example.com,001-677-670-9613x85474,Luxembourg,2020-12-18,3.0,Active
+51, Mccormick-Waters  ,Michael Foster,john48@example.net,899-272-8215x3292,Zambia,2021-03-18,4.1,Inactive
+52, Mcclure-Hernandez  ,Ashley Gutierrez,smitchell@example.org,001-576-925-1928x184,United States Virgin Islands,2024-04-29,4.2,Active
+53,White LLC,Lori Rios,dustin98@example.org,+1-452-945-0923x9305,Palestinian Territory,2022-02-13,3.4,Inactive
+54,Casey and Sons,Lance Wilkins,ibeck@example.com,001-915-712-0957,Serbia,2021-09-01,2.8,Active
+55,Prince-Bullock,Danny Weber,chandlerbradley@example.com,745-367-6695x29342,Hong Kong,2020-12-02,4.4,Active
+56,perez-white,Cassandra Lyons,tmoyer@example.net,001-623-219-0672x84043,Niue,2025-04-20,3.9,Active
+57,"hill, simpson and meyer",Brian Pham,wallacekimberly@example.net,516-750-3513x379,Faroe Islands,2020-08-28,3.1,Active
+58,"hartman, strickland and brown",John Holmes,nicholas62@example.com,(299)976-5243,Belarus,2023-03-02,3.5,Inactive
+59,"Combs, Thompson and Figueroa",Laura Nelson,murphydaniel@example.org,+1-891-264-0456x049,Antarctica (the territory South of 60 deg S),2024-08-17,4.7,Inactive
+60,Becker and Sons,Jason Lane,davidsonlori@example.org,(935)621-2175x368,Costa Rica,2023-08-18,4.8,Inactive
+61,"BENNETT, BAKER AND LESTER",Michael Schmidt,katherine00@example.org,927-730-8272,Guam,2020-11-08,4.1,Inactive
+62," GOODMAN, FOWLER AND SUTTON  ",Miss Hayley Robinson,susan01@example.com,+1-298-908-4797x93854,British Indian Ocean Territory (Chagos Archipelago),2024-06-17,2.7,Inactive
+63,Mcgee-Burnett,Edward Black,asteele@example.org,+1-935-947-1853x1830,Brazil,2025-01-04,4.3,Inactive
+64,Torres LLC,Ellen Parsons,simmonskara@example.net,(504)266-9700,Rwanda,2023-03-30,2.9,Inactive
+65,Jones-Foster,Mark Clark,rrobinson@example.net,707.854.6559,Madagascar,2025-01-08,3.2,Inactive
+66,"Mason, Dixon and Fitzgerald",Bradley Waters,gomeztimothy@example.net,268-263-9770,Kyrgyz Republic,2022-03-11,4.7,Active
+67,"valenzuela, tapia and cole",Christopher Hill,kerickson@example.com,+1-683-642-0663x625,Saint Martin,2022-11-08,3.9,Inactive
+68,"rangel, suarez and robinson",James Wolfe,richardoliver@example.net,2327497022,Malta,2022-12-04,3.7,Active
+69,Williams LLC,Molly Peterson,evelyn31@example.org,657.849.9221x9915,Chile,2024-11-05,3.7,Inactive
+70,"Walker, Reynolds and Jenkins",Matthew Mckinney,andrew48@example.com,6555330093,Kyrgyz Republic,2023-03-14,4.6,Inactive
+71,Rice PLC,Diana Barker,xboyle@example.net,(704)315-4041x29480,Gibraltar,2022-07-14,4.0,Active
+72,Love PLC,Kathy Valdez,blackburnandrew@example.org,(588)841-7982,Sao Tome and Principe,2023-08-28,3.5,Inactive
+73,smith-frank,Robert Watson,jonathan39@example.net,2345736949,Mexico,2021-03-14,2.9,Inactive
+74,Fuller PLC,Kimberly Estes,christopher08@example.net,+1-609-890-6066,Togo,2021-04-04,3.5,Active
+75,michael group,Wendy Brown,amandastone@example.com,234.984.1287,Zambia,2020-12-17,2.8,Active
+76, Shea Inc  ,Scott Cook,hayneskelly@example.org,625-937-7405,Chad,2023-12-09,3.6,Inactive
+77," Barnett, Mathews and Rodriguez  ",Michelle Hall,hubbardtina@example.com,+1-736-308-1926,Qatar,2022-08-09,4.5,Inactive
+78,"WILLIAMS, SCHNEIDER AND WHITAKER",Rachel Johnson,nathaniel45@example.com,3594724648,Samoa,2024-06-19,3.5,Active
+79,"Gamble, Rasmussen and Webb",Robert Vaughan,lisalynch@example.org,(807)797-1996x410,Brazil,2023-11-11,4.9,Active
+80,Giles-Yates,Amy Mullins,jonesadam@example.com,6092871999,Lithuania,2021-12-27,2.9,Inactive
+81, Good LLC  ,Brandy Haley,robert08@example.org,810.520.6455x874,Kenya,2022-05-01,4.4,Inactive
+82,"ZIMMERMAN, CARR AND PAGE",Matthew Martinez,barbara34@example.net,237-549-8264x3532,Belize,2023-10-25,4.7,Active
+83,"Ayers, Marshall and Thompson",Michelle Ortiz,cynthia31@example.net,679.447.4024x63234,Pakistan,2025-03-22,4.4,Active
+84,"PECK, WELLS AND ROGERS",Daniel Garcia,,001-427-766-9647x74535,Latvia,2022-05-18,4.5,Active
+85," Smith, Pitts and Green  ",Mark Berry,zlambert@example.org,+1-840-952-2134x816,Cote d'Ivoire,2025-01-15,4.0,Inactive
+86,"Orr, Nicholson and Jordan",John Poole MD,davischarles@example.org,2919816081,France,2023-05-20,2.6,Active
+87,Rivas LLC,Michael Hicks,brianna94@example.net,972.528.0759x4692,Mayotte,2024-05-28,4.7,Active
+88,peterson-fox,Ashley Zhang,jortega@example.org,360-490-0822x1084,Pitcairn Islands,2022-01-25,2.5,Active
+89,"Greene, Watts and Williams",Sara Vargas,rosedonald@example.net,976-321-6596x704,Samoa,2022-06-13,4.3,Active
+90,BARRETT PLC,Christopher Cunningham,reynoldsmichelle@example.org,246.536.3760x4972,Korea,2020-08-12,3.0,Inactive
+91,Jarvis PLC,Johnny Levine,rmendoza@example.net,4907985357,Slovenia,2024-08-08,3.4,Active
+92,"eaton, martin and clark",Michael Lee,russoalicia@example.net,001-579-432-8187x260,Cocos (Keeling) Islands,2023-10-13,4.4,Inactive
+93,"Hicks, Perez and Rodgers",David Terrell,wsantiago@example.net,964-390-2974x290,Turkmenistan,2021-11-10,5.0,Active
+94,white-harding,Gloria Lawrence,thomascaldwell@example.com,675.389.7609,Burundi,2024-01-26,4.1,Active
+95,"BUCHANAN, ROSS AND JONES",Christine Odom,smithtyler@example.org,001-894-468-2107,Latvia,2021-12-22,2.8,Inactive
+96,carpenter plc,Justin Smith,jennifer93@example.com,(403)388-3168,Saint Vincent and the Grenadines,2022-08-16,4.4,Inactive
+97, Stewart Group  ,Shawn Larson,jwilson@example.net,776.911.1525x066,Saint Helena,2022-01-22,3.8,Active
+98,Ellison-Lewis,Jocelyn Lopez,dickersoncarlos@example.org,+1-561-745-7516x375,Micronesia,2021-04-11,4.8,Active
+99," howard, evans and joyce  ",Lawrence Morton,zrich@example.org,527.267.0695,Chad,2024-09-06,4.9,Active
+100," Adams, Harris and Ramirez  ",Shelby Coffey,elizabethgonzalez@example.org,804.299.4619,Tajikistan,2022-09-11,4.8,Inactive
+101,"ROBLES, OLSON AND FIGUEROA",Patricia Jones,melissahill@example.org,001-551-456-1309x042,Pitcairn Islands,2023-05-17,4.0,Active
+102,lewis-davis,Vanessa Fields,athornton@example.org,+1-418-762-3073x191,Mexico,2022-05-04,3.0,Inactive
+103,Shelton-Lopez,Sandra West,rhonda47@example.net,8159610079,France,2021-07-12,3.6,Inactive
+104,hicks group,Christopher Lee,ayalalawrence@example.org,424.529.5468,Netherlands Antilles,2023-08-25,3.6,Inactive
+105,klein inc,Nancy Rose,lwhite@example.net,282.485.5578x0870,Barbados,2024-02-11,3.2,Inactive
+106,Smith Group,Joshua Cole,toddromero@example.org,491-307-5854,Liechtenstein,2021-03-11,2.5,Inactive
+107, Cox-Williams  ,Angela Contreras,fevans@example.org,606-706-7352,Bolivia,2024-02-28,5.0,Inactive
+108,Rivera-Wright,Thomas Craig,jocelyn02@example.net,999.441.1725x2592,Tuvalu,2023-03-23,2.8,Active
+109,Ashley-Cooke,Caroline Miller,robert76@example.org,375-645-6913x526,Portugal,2024-12-03,2.7,Inactive
+110,"Winters, West and Johnson",Jeffrey Morales,theodore70@example.net,+1-569-513-8238x113,France,2023-05-29,4.6,Active
+111,"Watson, Thomas and Roberts",Stephen Rivera,xstewart@example.org,(334)448-7916,Korea,2022-10-05,4.2,Active
+112,"Brennan, Rios and James",Elizabeth Young,kimberly91@example.com,+1-836-505-3578x47733,Kenya,2025-05-02,3.6,Inactive
+113,Brock LLC,Samantha Walker,kimberly66@example.com,001-971-327-8334x133,Trinidad and Tobago,2025-05-10,4.3,Active
+114, Watson and Sons  ,Justin Steele,alopez@example.net,656-403-1695,Hong Kong,2022-07-06,2.8,Inactive
+115,"GIBSON, HAMMOND AND OROZCO",Troy Richards,mjenkins@example.com,4955318600,Lesotho,2024-05-21,3.4,Active
+116,Delgado Inc,Vicki Floyd,stephanieclements@example.org,(576)774-8930x95064,New Caledonia,2022-06-15,4.8,Active
+117,LYNCH-HARVEY,Stephen Smith,xhall@example.com,707-812-4423,Uganda,2024-12-23,4.1,Active
+118,"ACEVEDO, NELSON AND MCDOWELL",Victoria Thomas,kyle17@example.net,(759)625-1737,French Guiana,2023-02-13,3.2,Active
+119,lowe-vasquez,Brittany Johnson,arthurchavez@example.com,001-897-307-2863x893,Netherlands,2021-02-20,3.7,Inactive
+120,"Sullivan, Lewis and Gill",Michael Hall,plopez@example.org,9462783515,Guatemala,2021-07-26,3.8,Inactive
+121,"Schultz, Glover and Jackson",Gregory Johnson,arthurporter@example.com,342.249.9152x035,Bouvet Island (Bouvetoya),2025-05-12,4.8,Active
+122,Davis-Miller,Matthew Vaughn,buchananjeffrey@example.org,524.441.4122x28946,Micronesia,2021-05-12,3.0,Inactive
+123,Dixon-Ross,Tabitha Gomez,danielthomas@example.net,501.855.9543x1291,Christmas Island,2020-09-19,3.5,Inactive
+124,MARTIN-BISHOP,Thomas Wallace Jr.,lindawilson@example.org,919-224-9006,Mayotte,2023-07-10,2.7,Inactive
+125,"HORTON, CUEVAS AND SCHNEIDER",Timothy Thompson,lgeorge@example.com,(994)815-5854x45792,Lao People's Democratic Republic,2022-01-22,4.2,Active
+126,"Anderson, Duncan and Wright",Brenda Christian,bcummings@example.org,+1-293-709-9446x8024,Saint Barthelemy,2021-10-06,4.9,Active
+127,Gonzales Group,Thomas Fisher,williamspatrick@example.org,414-854-4541,Hong Kong,2025-01-19,2.6,Active
+128,harper inc,Colleen Molina,ryanconley@example.org,246.962.8955x0784,China,2021-08-04,3.9,Inactive
+129,"hughes, nixon and burton",Joseph Blevins,lwarner@example.com,001-344-577-3705x39615,Anguilla,2024-06-26,4.0,Inactive
+130,Hill-Hayes,Robert Romero,khenderson@example.org,526-641-0854x03349,Ghana,2025-03-27,3.5,Active
+131,evans-smith,Dawn Smith,alan09@example.org,200.263.1868x592,Palestinian Territory,2022-01-07,2.9,Active
+132," brooks, thomas and cabrera  ",Michelle Navarro,sara25@example.net,738.503.0724x209,South Georgia and the South Sandwich Islands,2021-02-06,3.0,Active
+133,"Bates, James and Hall",Andrew Burns,bosborne@example.com,826-401-2573,Syrian Arab Republic,2023-11-04,4.6,Inactive
+134,"Gray, Martin and Huynh",Erin Brown,catherinepatel@example.org,(522)458-7414x83439,Congo,2021-02-18,5.0,Active
+135,HUERTA-CERVANTES,Brian Ayala,scott70@example.org,001-700-963-8575x046,Japan,2021-01-01,4.2,Inactive
+136,"Robinson, Anderson and Suarez",Deborah Gallegos,ychristian@example.org,3092920476,Mexico,2024-10-22,3.9,Inactive
+137,"Reid, Chambers and Ramirez",David Drake,vanessa99@example.net,449-493-4005x15744,Cambodia,2022-05-22,4.0,Active
+138,Ellis-Clark,Donald Alexander,lambrobert@example.net,001-711-219-0493x35525,Central African Republic,2021-02-19,3.4,Inactive
+139,Johnson PLC,Holly Jenkins,bmartinez@example.com,+1-500-395-4083,Australia,2022-03-26,4.6,Active
+140,Mccullough-Love,David Davenport,shellywright@example.com,672.714.2927x27678,Maldives,2024-01-10,2.9,Active
+141,Weaver-Carter,Christopher Davies,burnettjulie@example.com,(889)539-7511x822,Sudan,2024-12-22,4.1,Active
+142,Garcia-Foster,Jeffrey Dennis DVM,lisaellison@example.org,739-991-4835,Trinidad and Tobago,2024-04-11,4.9,Active
+143,"GORDON, SMITH AND REYES",Alexandra Zimmerman,wagnerjames@example.net,6552032136,Guyana,2024-05-18,4.6,Inactive
+144,Wheeler and Sons,Donald King,lgrant@example.net,(299)261-2856x5322,Burundi,2021-06-23,3.8,Inactive
+145,"Vasquez, Velasquez and Pearson",Anna Brown,privera@example.net,797-538-8029,Christmas Island,2021-02-10,3.8,Active
+146,Young-Barr,Rhonda Arias,mooncody@example.net,+1-367-937-4873x89029,Morocco,2022-08-07,3.1,Active
+147, jefferson-willis  ,Robert Young,harristammy@example.com,001-418-825-5910x85565,Tonga,2024-04-26,4.5,Active
+148,"Shea, Thomas and Howard",Katherine Garcia,jsmith@example.com,(331)963-2519x5001,Guadeloupe,2025-03-02,4.4,Inactive
+149,Rodriguez PLC,Jason Clark,benjamin92@example.org,617.452.4360x3077,Tunisia,2023-08-28,3.9,Active
+150,Lopez-Baker,Toni Perkins,jsmith@example.com,894-549-5274,British Virgin Islands,2024-09-19,2.8,Inactive
+151,NGUYEN-CARLSON,Joseph Gross,rossjeff@example.org,344.442.2854x8666,Sri Lanka,2024-02-29,2.5,Inactive
+152,"Garcia, Howard and Franklin",Jessica Miller,tcook@example.net,482-779-6360,Brunei Darussalam,2021-01-01,2.8,Active
+153, Crane LLC  ,Reginald Nelson,jeromelane@example.org,+1-338-365-7328x7240,Australia,2022-10-06,3.0,Active
+154,allen inc,Cynthia Mercer,thompsonelizabeth@example.com,001-456-305-2078x5035,Namibia,2024-03-19,3.5,Inactive
+155,carey-farmer,Anthony Davenport,palmertiffany@example.net,476.536.1081x88541,Cote d'Ivoire,2021-06-17,2.9,Active
+156,TUCKER LLC,Willie Scott,henrykenneth@example.org,349-921-3429,Moldova,2023-01-20,3.4,Active
+157,Singh and Sons,Paul Peterson,ruiztroy@example.com,716.686.4510,Sierra Leone,2022-06-27,2.5,Inactive
+158,Palmer-Duncan,Michael Black,simpsoncameron@example.net,900.677.0874,Burundi,2022-04-19,2.8,Inactive
+159,"MATTHEWS, MILES AND HUFF",Natasha Wilson,elliottadam@example.com,905-226-5974x525,Benin,2024-06-23,2.9,Inactive
+160,"Walters, Ferrell and Casey",Linda Brown,james60@example.org,716.617.6053x0384,Ghana,2021-11-02,4.8,Inactive
+161,"curtis, carter and le",Meredith Sandoval,kristy86@example.org,685-233-0897x632,Swaziland,2020-09-15,2.7,Active
+162, Roberson-Olson  ,Lori Vargas,nedwards@example.org,001-635-750-3617x551,Holy See (Vatican City State),2024-09-12,4.6,Inactive
+163, HAWKINS-JENKINS  ,Janice Moyer,zwest@example.org,777.475.2745x718,Bangladesh,2021-11-10,3.0,Inactive
+164,DUNN-PITTMAN,Crystal Miles,qbates@example.net,(508)430-0131x98677,Jersey,2023-02-18,4.9,Inactive
+165,Wheeler-Nguyen,Miss Megan Clark,jessicamunoz@example.net,488.280.6323x27259,Equatorial Guinea,2025-07-06,4.2,Active
+166,Mcmillan-Russo,Dawn Harris,cassandra84@example.net,(709)567-0524x34362,Saint Helena,2021-03-04,4.2,Active
+167,"young, bowman and davis",Sarah Petty,erin23@example.com,4505623645,Micronesia,2023-09-27,4.6,Active
+168,Smith Group,Robert Dalton,anthonymiller@example.net,(349)569-0236x53276,Ecuador,2022-07-27,4.9,Active
+169," Nixon, Jenkins and Garcia  ",Mrs. Jessica Bennett,samuellee@example.org,630-356-8253x5112,San Marino,2021-08-05,4.3,Inactive
+170,"GRIMES, THOMPSON AND EVANS",Christopher Anderson,matthewsstephen@example.net,001-524-645-8856,Aruba,2023-03-08,2.5,Active
+171,"bryant, jackson and martinez",Audrey Davidson,rodriguezalexis@example.com,(234)819-8522x3074,Austria,2024-06-09,4.2,Active
+172,Miller-Ray,Rebecca Rodriguez,rickyayala@example.org,(536)841-0994x2882,Swaziland,2021-09-04,3.1,Active
+173, Fuentes-Hurst  ,Gary Nelson,paulabradley@example.net,8494313141,Dominica,2023-02-03,3.0,Inactive
+174,Sanchez Inc,Bradley Fry,brittany54@example.org,(259)241-5790x744,Algeria,2024-07-17,3.8,Active
+175,"NEAL, PETERSON AND SUTTON",William Rosario,jenniferfrench@example.com,+1-538-478-5253,Central African Republic,2021-02-20,3.8,Active
+176,Medina Inc,Daniel Moore,bianca32@example.net,001-587-499-2308,Bouvet Island (Bouvetoya),2024-10-19,3.3,Active
+177,VARGAS AND SONS,Kenneth Horn,ygiles@example.org,764.414.7025x539,Ghana,2023-01-30,2.7,Active
+178,Ball-Cole,Michael Williams,omaredwards@example.net,230-660-5217x0796,Portugal,2022-12-28,4.8,Active
+179,Russo and Sons,David Santiago,kylechan@example.net,(455)217-0431,Vietnam,2024-07-23,3.6,Inactive
+180,Brock Group,Ashley Mendoza,dillon20@example.org,787-699-8963x11115,Thailand,2021-09-17,4.2,Active
+181,Rodgers-Gonzalez,Tonya Carlson,wendymorgan@example.com,001-404-934-9976,Ghana,2021-09-12,2.9,Inactive
+182,smith-willis,Andrew Lowery,suzannemartin@example.net,+1-607-885-5648x08783,Vanuatu,2025-05-08,2.5,Active
+183,"russell, chambers and yu",Debbie Ross,eramirez@example.net,001-319-978-4119x2024,Greenland,2020-12-17,2.6,Active
+184,"FULLER, MASON AND JORDAN",Brett Francis,carloshawkins@example.org,777.943.8314,Saudi Arabia,2022-01-18,4.9,Inactive
+185,Lamb Ltd,Debra Solomon,bill24@example.org,001-565-559-0717,Chile,2023-01-22,3.2,Active
+186,FERNANDEZ INC,Oscar Campbell,,001-417-699-6349x8474,Cuba,2022-06-18,3.4,Inactive
+187,"BALDWIN, WILLIAMS AND GILBERT",Debra Martin,samanthagarcia@example.net,001-537-875-6050x2787,Bhutan,2022-01-26,3.3,Inactive
+188,"JOHNSON, YATES AND CAMERON",Keith Kim,sydneyarmstrong@example.net,899-674-7812x437,Bermuda,2021-05-31,4.1,Active
+189,DOUGHERTY INC,Crystal Perez,ygreene@example.org,(632)788-1549,Cocos (Keeling) Islands,2025-06-02,4.2,Active
+190,Day Ltd,James Walters,mjohnson@example.com,851-224-3674x5082,Suriname,2021-09-03,4.1,Inactive
+191,nelson-williams,Jeffrey Santos,keith64@example.net,(204)204-5100x402,Chile,2021-06-15,4.9,Inactive
+192,"COLLINS, WATTS AND POWELL",Meredith Russell,rramirez@example.com,486-394-5924x92229,Slovenia,2023-04-24,4.8,Inactive
+193,Brown-Sanchez,Ryan Garner,brownhannah@example.net,001-622-942-7689x40525,Bahrain,2022-02-08,2.8,Inactive
+194," gilbert, lopez and smith  ",Catherine Jenkins,jboyd@example.com,736.261.6850,Guinea,2023-08-17,4.0,Active
+195," thomas, rice and goodwin  ",Katherine Mullins,zcline@example.com,001-555-752-6537x7925,French Southern Territories,2025-06-29,4.7,Inactive
+196,"Krueger, Baker and Clark",Kevin Brown,michael98@example.net,001-952-536-5690x14414,North Macedonia,2020-12-03,4.1,Inactive
+197, Rowe-Navarro  ,Amber Stone,garciahunter@example.com,(952)538-7780,Sao Tome and Principe,2021-08-18,3.4,Inactive
+198,Potter-Costa,Hector Schultz,laura66@example.net,450.511.3005,Ghana,2022-07-09,3.1,Inactive
+199," LAWSON, MILLER AND LAM  ",Lisa Brock,hroth@example.net,001-812-791-3314,Hungary,2023-12-31,4.0,Inactive
+200,"RICH, LONG AND ROBINSON",Javier Davidson,larry95@example.net,001-440-471-7512,Brunei Darussalam,2024-03-26,2.9,Active
+201,Hill-Mcclure,Joan Clark,matthewross@example.org,476.856.6566,Egypt,2022-09-25,4.0,Active
+202,"Jimenez, Cobb and Burke",Jason Zimmerman,,(267)258-3124x8259,Malawi,2024-01-10,4.7,Active
+203, SCHULTZ INC  ,Alison Garza,wardcolleen@example.com,+1-273-298-6500x81506,Somalia,2025-01-16,4.5,Inactive
+204,"austin, logan and nelson",Julia Jones,sandra63@example.net,425.818.7592x942,Palau,2021-05-11,4.0,Active
+205,"White, Castro and Gray",Samantha Reeves,heatherwilson@example.net,001-744-546-4690x83329,Austria,2020-10-03,4.0,Inactive
+206," Andrews, Murphy and Jones  ",James Patel,kiarapratt@example.org,(777)695-7921,Guinea-Bissau,2022-06-22,4.2,Inactive
+207,Reilly Ltd,George Price,youngrodney@example.org,001-310-673-8774x4121,Wallis and Futuna,2022-09-12,3.9,Active
+208, Clark-Allen  ,Lisa Yang,joseph90@example.com,+1-207-555-2177,Thailand,2025-03-12,4.7,Active
+209,reed-rollins,Jennifer Stevenson,lanefrancisco@example.net,001-929-367-0188x434,United Arab Emirates,2022-01-12,2.9,Inactive
+210,Jones Ltd,Peter Watson,annette98@example.org,001-384-536-9624x2350,Austria,2021-03-08,4.3,Inactive
+211,HARDY LLC,Geoffrey French,candace02@example.com,998.992.7778x54075,Netherlands Antilles,2022-05-30,3.5,Active
+212,SMITH-OCHOA,Andrea Carney,salazartara@example.org,993.942.2994x402,Togo,2024-05-25,3.7,Active
+213,Hood Ltd,Stacy Cole,johnsonbenjamin@example.org,+1-377-523-7840,Norfolk Island,2023-07-29,4.6,Active
+214,"Taylor, Flores and Thomas",Sherry Burns,valerie89@example.org,(903)981-1756,French Southern Territories,2022-07-25,3.3,Inactive
+215,larson ltd,Melissa Gamble,kaylacain@example.com,206-784-4312,French Polynesia,2021-11-16,3.8,Active
+216,Boyle-Benitez,Brenda Ward,andrewhunter@example.com,373-375-6035x0784,Burkina Faso,2023-10-26,4.3,Inactive
+217,shah ltd,Diana Walker,danielle43@example.net,001-510-593-6173x093,Azerbaijan,2022-12-20,3.0,Inactive
+218,Butler PLC,Laurie Olsen,loganaustin@example.com,838-894-5377x57030,Svalbard & Jan Mayen Islands,2024-03-23,3.2,Active
+219," Morgan, Jensen and Michael  ",Gwendolyn Thomas,alexandrawhite@example.com,001-696-966-5511x21060,Montserrat,2021-04-30,4.8,Inactive
+220, Miller-Valdez  ,Danielle Foster,stevenchurch@example.com,373-332-5970x0805,Niger,2025-01-04,2.6,Active
+221, TURNER-GOODWIN  ,Angela Turner,anthonyrodriguez@example.com,+1-745-983-7359,Latvia,2021-09-03,3.7,Active
+222,Richardson-Franco,April Mathews,susan09@example.com,(357)503-3622,Congo,2025-01-12,4.2,Inactive
+223,Chandler PLC,Jason Thompson,tylerwilkins@example.org,841.586.8865x252,Sao Tome and Principe,2022-02-03,2.5,Active
+224," brown, mendez and johnson  ",Edward Jordan,keithelliott@example.com,(912)844-1392,Jersey,2022-09-12,4.6,Inactive
+225,Wong-Adams,Debbie Reed DVM,boothamanda@example.net,+1-387-382-3316,Libyan Arab Jamahiriya,2022-08-27,4.9,Active
+226,"Price, Hill and Thompson",Daniel Merritt,coryramirez@example.org,321-399-1610,Somalia,2022-06-16,3.1,Inactive
+227,Rogers Group,Kimberly Carter,lmartinez@example.com,+1-723-752-7687x277,Lithuania,2021-01-26,4.0,Active
+228,Ray Ltd,Anthony Lopez,daniel02@example.org,+1-632-734-7477x74189,Venezuela,2025-01-12,4.7,Active
+229, patterson-hoffman  ,Luis Webb,bweaver@example.com,397.614.8270x13001,Niger,2025-04-27,3.9,Active
+230, ward-mendez  ,Joy Gray,madeline78@example.net,+1-711-958-6095x773,Sri Lanka,2024-11-21,3.2,Active
+231,WEBSTER INC,Philip Mckee,ewallace@example.org,889.315.0590x9674,Bermuda,2022-07-04,2.8,Inactive
+232," hall, carter and hoffman  ",Frank Harper,rickymartin@example.org,6434038862,Mayotte,2024-10-15,5.0,Active
+233,RUSSELL GROUP,Dr. Laura Ruiz,david82@example.com,210-375-7744x35333,Mexico,2022-07-13,2.5,Inactive
+234,"harris, roberts and lee",Jessica Watson,powellraymond@example.org,(893)934-3067x9939,Tunisia,2023-01-03,3.6,Inactive
+235,Wilson-Mack,Ethan Gillespie,marylyons@example.org,001-547-648-9245x66222,Chile,2021-10-08,5.0,Inactive
+236,"JACKSON, GARCIA AND TOWNSEND",Christopher Simpson,smithmatthew@example.net,+1-927-453-1557x525,Suriname,2023-12-24,4.1,Inactive
+237,Roberson PLC,Phillip Miller,todddawn@example.org,687.848.6834x34809,Seychelles,2023-12-30,3.5,Active
+238,Buck LLC,Andrea Allen,robinsonjessica@example.com,694.831.0602,Trinidad and Tobago,2021-06-25,3.6,Inactive
+239," Horton, Clayton and Luna  ",Daryl Allen,staceyhart@example.org,(454)914-3444x253,Holy See (Vatican City State),2021-09-11,3.3,Active
+240,Patterson-Smith,Linda Wolf,alyssaturner@example.net,620.480.2635x73076,Trinidad and Tobago,2020-08-31,2.6,Active
+241,"campos, lyons and lewis",Glenda Allen,taylormichael@example.net,355.220.1462,France,2025-03-02,4.9,Active
+242,Davis Group,Kelly Guerra,hernandezcharlene@example.org,886-201-5803,Malaysia,2022-09-16,2.8,Active
+243,"andrade, aguilar and valdez",Michael Rice,stephenharris@example.org,(734)775-0952,Albania,2022-05-30,4.0,Active
+244, garcia-patel  ,James Johnson,matthewperry@example.net,+1-827-732-8645x257,Burkina Faso,2023-01-31,4.7,Active
+245, Robertson-Stone  ,Dana Johnson,fuentesjared@example.com,+1-564-558-5933x454,Falkland Islands (Malvinas),2021-12-18,4.5,Inactive
+246,"jenkins, smith and brewer",Mary Robbins,tristan60@example.org,(791)896-4628x5158,Mexico,2024-07-14,4.4,Inactive
+247, Anderson PLC  ,Shelby Wilson,molly54@example.org,926.374.1758,Guyana,2023-02-19,4.3,Inactive
+248,ROSS GROUP,Renee Graham,ehunter@example.org,9574190763,Burkina Faso,2023-12-26,3.3,Active
+249,"FARMER, TURNER AND ALVARADO",Carlos Cooper,knorris@example.com,312.768.3477,Netherlands Antilles,2021-08-23,4.0,Inactive
+250,french-morris,Paul Bennett,carlsonjordan@example.com,339-745-5363x96306,Honduras,2025-04-14,3.5,Active
+251,Martinez-Gomez,Karen Hale,leonardjennifer@example.net,467-212-1713x341,Guernsey,2022-03-09,2.9,Inactive
+252,Gardner Ltd,Deborah Roberts,james63@example.net,(861)929-0130x70149,Japan,2025-03-11,4.0,Inactive
+253,barnes group,Jane Johnson,allen99@example.net,+1-842-941-8272x63459,Jordan,2022-05-04,3.4,Active
+254,Alexander Ltd,Robert Sellers,william03@example.org,8289702460,Marshall Islands,2022-10-13,2.9,Active
+255, Wall-Smith  ,Brandon James,thomasmatthew@example.net,826-830-1461x74265,Bolivia,2025-05-26,3.6,Active
+256,"Jordan, Hall and Watson",Mindy Taylor,cgallegos@example.com,001-744-402-3092x3876,Denmark,2024-09-01,4.9,Active
+257, RODRIGUEZ PLC  ,Shannon Jackson,perezvincent@example.com,(785)378-7124x5463,Cyprus,2024-06-05,4.6,Inactive
+258,"Davidson, Sullivan and Gould",Walter Freeman,laracourtney@example.org,(470)946-1201x103,Korea,2023-08-06,3.0,Inactive
+259,"CHOI, TAYLOR AND CONWAY",Kimberly Meyer,nwilson@example.org,001-957-518-0377x42380,Georgia,2023-01-14,2.8,Active
+260,Valdez-Morton,Norman Beck,dorisknox@example.com,(840)326-3612x5873,Serbia,2023-09-20,2.6,Active
+261,Rodriguez and Sons,Ronald Thompson,stephen88@example.com,+1-236-934-8077x90629,Luxembourg,2021-11-26,3.9,Inactive
+262,Jones-Porter,Mr. Timothy Miller,drakerebecca@example.com,(996)387-8557,Cote d'Ivoire,2024-05-13,4.0,Active
+263, Miller PLC  ,Jordan Cooper,rachelrich@example.com,001-707-745-8727x38174,Samoa,2021-01-23,2.6,Inactive
+264," King, Cruz and Malone  ",Jacob Allen,gvasquez@example.org,+1-490-315-9850x5616,Jamaica,2022-01-16,4.0,Inactive
+265,Davis-Rodriguez,Morgan Lopez,bhancock@example.net,(697)355-7962x1405,Saint Vincent and the Grenadines,2025-06-05,4.7,Active
+266,"PARKS, THOMAS AND WILLIAMS",Cheryl Shaw,blowe@example.org,811-468-5576,Tokelau,2025-05-02,4.9,Active
+267, hayden-hammond  ,Megan Smith,anthonymack@example.com,936-828-5122x387,Comoros,2021-10-31,4.8,Inactive
+268,harris ltd,James Hall,evanscindy@example.org,(514)283-9005,Philippines,2022-07-27,2.8,Active
+269,Smith-Ball,Jeremiah Luna,ronald35@example.org,254.904.6350,Oman,2021-02-19,4.3,Active
+270,Mcgrath Ltd,Angela Martinez,donna48@example.net,(879)883-4588x8964,Niger,2023-03-12,4.3,Inactive
+271,"Peterson, Valencia and Evans",Joshua Goodman,bakermark@example.net,290.494.5522x548,South Georgia and the South Sandwich Islands,2022-01-14,2.6,Inactive
+272,Escobar Ltd,Trevor Sparks,anna11@example.com,+1-361-345-4078x37415,Kyrgyz Republic,2021-04-24,4.0,Inactive
+273,banks-taylor,Catherine Stevens MD,hgonzalez@example.com,+1-769-206-4904x271,Latvia,2023-05-28,3.4,Inactive
+274,Cortez Group,Kayla Davis,buchananryan@example.com,940-569-3835,Wallis and Futuna,2024-06-26,3.2,Inactive
+275,"Ray, Carlson and Snyder",Joshua Williams,bowenmatthew@example.com,(843)279-2203x63055,Ghana,2024-05-07,3.8,Inactive
+276,Walker Group,David Thomas,tlane@example.com,(372)542-5802x603,Bahrain,2023-08-07,2.7,Active
+277,MANN-MOORE,Ruth Hayes,carlsontheresa@example.net,642-641-4088x023,Armenia,2021-01-22,4.0,Inactive
+278,romero-brewer,Christopher Rice MD,jamesmorris@example.net,001-304-364-7269,Bolivia,2021-09-27,3.2,Inactive
+279, AYALA LTD  ,Jeffrey Brady,rchandler@example.com,001-864-794-5633,Slovenia,2023-07-18,5.0,Inactive
+280,Rogers-Mills,Aimee Johns,goodwinchristine@example.com,001-984-583-4871x108,United Kingdom,2023-01-08,2.6,Active
+281, MURRAY-CHANG  ,Danielle Jackson DDS,clarkjoy@example.com,001-651-530-5451x81462,Guadeloupe,2023-12-27,4.7,Active
+282,cole group,Robert Aguirre,theodoreshah@example.com,001-862-766-5314x573,Mongolia,2024-10-26,4.1,Inactive
+283,LEWIS LTD,Brianna Knapp,cynthia45@example.net,656-869-4222x3063,Comoros,2021-03-26,3.3,Inactive
+284,"rodriguez, perry and hall",Chelsea Smith,meganmarsh@example.com,001-465-959-3822x761,Reunion,2025-01-04,4.2,Inactive
+285, Reyes-Sandoval  ,Jeffery Watkins MD,deborah73@example.net,598-608-2475,Turkey,2025-02-01,2.7,Active
+286,Lewis PLC,Aaron Palmer,wilsonphilip@example.net,001-497-935-1116x6275,New Zealand,2023-09-28,2.7,Inactive
+287,Riley-Scott,Amanda Edwards,jameslauren@example.org,001-788-313-9735x5759,Suriname,2020-09-20,4.8,Active
+288,"hernandez, nunez and brown",Curtis Horn,qvilla@example.org,(476)221-2479,Serbia,2024-10-08,4.8,Active
+289,Miller LLC,Shannon Daniel,tharris@example.org,676-994-9297x894,Turks and Caicos Islands,2022-07-02,4.5,Active
+290, Long and Sons  ,Jerry Phillips,shepherdricky@example.org,208.326.3686x515,Bulgaria,2024-03-12,3.3,Active
+291,Byrd-Jarvis,Steven Nguyen,adkinsmegan@example.net,(545)660-2082x14258,Sao Tome and Principe,2021-05-17,4.1,Inactive
+292,Hanson and Sons,Brittney Holloway,klopez@example.net,807-840-7972,Togo,2023-06-02,3.1,Inactive
+293,Cummings LLC,Keith Hopkins,gonzalezdenise@example.net,5446812599,Netherlands Antilles,2021-05-09,3.7,Inactive
+294,"HERRING, WILLIAMS AND AVILA",Alisha Taylor,cookedylan@example.org,001-664-215-7085x8358,Angola,2022-06-14,4.8,Active
+295, Waters-Thornton  ,Benjamin Fernandez,jpetty@example.org,583.271.6414x16346,Luxembourg,2022-04-17,2.6,Inactive
+296,whitney llc,Todd Castaneda,justinflynn@example.org,503-815-4004x36146,Timor-Leste,2024-08-04,5.0,Inactive
+297,Bradley-James,Brandon Fowler,pthompson@example.net,5263472536,New Zealand,2022-09-07,2.9,Inactive
+298,Becker-Long,Tracy Fleming,parkersavannah@example.net,457-725-4777x444,Taiwan,2021-05-19,4.6,Active
+299,HAYDEN-HOUSE,Jonathan Howard,smithkaren@example.net,+1-548-391-3256x44812,Tonga,2021-12-09,3.3,Active
+300,Gonzales-Davis,James Nichols,linda33@example.net,(714)826-5110x02436,Mongolia,2024-07-04,3.4,Active
+301,Pittman-Miller,Dawn Barker,erinhoffman@example.org,(961)973-1996,Hong Kong,2022-10-31,2.7,Inactive
+302,"HUNTER, WEST AND JONES",Darrell Molina,tortiz@example.net,330.865.7823x8275,Equatorial Guinea,2024-10-21,2.5,Inactive
+303,Marshall-Marsh,Elizabeth Ellis,nelsonrichard@example.net,290.532.1739,Kenya,2022-03-11,3.8,Inactive
+304,Bell Ltd,Kristina Perez,princejanice@example.net,5923221167,Guatemala,2023-01-29,3.8,Active
+305,Henderson Group,George Jenkins,froberts@example.org,001-600-857-6304x908,Angola,2023-09-23,3.5,Inactive
+306,Parker-Mullins,Jason Avila,brian32@example.org,456-958-6503,Congo,2021-08-04,3.8,Inactive
+307,"Brown, Lane and Walsh",Melody Moreno,jhuerta@example.net,(919)285-4182,South Georgia and the South Sandwich Islands,2023-09-01,3.8,Inactive
+308, Rice-Wade  ,Tasha Crawford,teresalawson@example.org,625-376-1228,Russian Federation,2021-03-30,3.6,Active
+309,Jones LLC,Brian Lam,mark26@example.org,453-637-3373x45170,Palau,2023-03-07,2.5,Active
+310, davenport-reyes  ,Matthew Moore DDS,fclayton@example.com,786.689.3203,Cameroon,2024-08-22,4.4,Active
+311,"Herrera, Barnes and Mason",James Bennett,bpotter@example.com,902-763-9074,Chad,2023-11-01,3.3,Active
+312,"logan, coleman and mclean",Patricia Waller,christopher02@example.net,399-234-7846,Anguilla,2024-07-07,3.2,Active
+313," Smith, Ball and Clarke  ",Darius Strickland,tprice@example.com,558-949-7552,Jamaica,2022-08-14,4.7,Inactive
+314,Johnson-Gonzalez,Edward Wilcox,mendezelizabeth@example.com,882.372.1266x5800,Malta,2020-10-05,3.2,Active
+315,moreno and sons,Diane Garcia,burgessjim@example.org,001-758-381-6193x66983,Uzbekistan,2025-03-01,3.7,Inactive
+316,scott-bryant,Donald Armstrong,abennett@example.com,860.261.1033,Mayotte,2025-03-08,4.0,Active
+317,"roberts, clarke and brown",Emily Burke,bhoward@example.net,001-445-876-1468,Burkina Faso,2021-07-26,2.9,Active
+318,Shea Ltd,Ryan Moore,michelle57@example.com,679.992.0478x271,Haiti,2021-05-15,4.2,Active
+319,"Haney, Buchanan and Ford",Cindy Martin,anthonywebb@example.com,676.676.6778,Tajikistan,2024-02-23,4.8,Active
+320,Jackson-Smith,Sherri Brown,lozanoerica@example.net,001-283-674-5337x949,Singapore,2021-12-26,4.7,Inactive
+321,CLARK GROUP,Christina Armstrong,daveruiz@example.org,386-434-8724,Kuwait,2024-11-25,3.6,Inactive
+322, Brown-White  ,Christine Williams,,345.917.6638x9376,Palau,2025-01-14,4.9,Active
+323,"Woods, Miller and Johnson",Jeffrey Rivera,mmurillo@example.com,+1-464-440-9121x93318,Zimbabwe,2020-09-12,2.8,Inactive
+324,FLORES LLC,Ashley Schwartz,rogersamber@example.com,001-644-842-3873,Iran,2021-01-28,2.8,Active
+325,Mosley Inc,Isabel Harris,evanslauren@example.org,659.834.3634x723,Liberia,2020-09-02,2.7,Active
+326,Campbell-Miller,Jennifer Gonzalez,jamiemills@example.org,(392)550-1620,Togo,2021-02-09,3.0,Inactive
+327,"Kirk, Simmons and Bradley",Robert Grant,carlameyers@example.com,2707069705,Lebanon,2022-02-08,3.1,Inactive
+328,"escobar, long and adams",Kimberly Brown,evelyn78@example.net,(483)503-2432x0092,Marshall Islands,2025-02-13,4.1,Inactive
+329,Bryant-Hawkins,Marie Bradley,meagan23@example.com,692-878-6643,Bahrain,2020-07-21,3.8,Inactive
+330,Hoffman LLC,Christopher Bartlett,heathbradley@example.com,754.609.2006x890,Guam,2025-05-27,3.4,Active
+331,"Reynolds, Mann and Brown",Eugene Murphy,johnsonjennifer@example.org,+1-746-334-6920x467,Hungary,2022-12-10,3.6,Active
+332,Scott-Perkins,James Allen,mcmillanricky@example.org,(901)340-9058x717,Gambia,2021-05-18,4.7,Active
+333, Williams Group  ,Richard Boyle,rnoble@example.com,704.589.2264x089,Guatemala,2024-05-08,2.7,Active
+334," Love, Johnson and Bond  ",Daniel Harris,laurascott@example.com,001-351-516-2782,Saudi Arabia,2024-08-08,3.1,Active
+335, VARGAS-ANDRADE  ,Justin Bishop,reevesmelissa@example.org,8393532491,Armenia,2020-11-02,3.8,Active
+336,combs-garcia,Jeffrey Ball Jr.,christopher41@example.org,001-336-745-6401x339,San Marino,2024-08-01,4.9,Active
+337,Simon-Greene,Diana Jones,lcannon@example.net,670-566-0114x4887,Kazakhstan,2024-03-15,3.6,Inactive
+338,Hodge Inc,Nicole Arnold,jacobsonmary@example.net,414-800-3971,Canada,2022-09-09,2.9,Active
+339, Johnson-Hampton  ,Dana Middleton,natalie68@example.com,274.366.2490x4052,British Virgin Islands,2021-03-11,3.5,Inactive
+340," MCINTOSH, RODRIGUEZ AND YU  ",Thomas Hernandez,waltercampbell@example.com,428-741-1281x8270,Panama,2025-01-06,3.0,Active
+341,"Young, Murray and Pacheco",Charles Rogers,joshua51@example.org,749-873-0893x88594,Uzbekistan,2022-05-11,4.8,Inactive
+342,Ramirez PLC,Daniel Murray,jgarcia@example.org,804-736-2172,Nauru,2020-09-28,4.0,Inactive
+343,"Coffey, Gould and Shannon",James Preston,holmeskenneth@example.net,(647)838-1318x376,Holy See (Vatican City State),2021-10-07,3.4,Inactive
+344,Hoffman-Harris,Timothy Rogers,bankstony@example.net,+1-629-570-3862,Grenada,2022-05-26,2.8,Active
+345,Williams LLC,Ashley Evans,bchan@example.net,(561)692-6634,Namibia,2024-05-13,4.5,Inactive
+346,DUNN PLC,John Bush,jennyjones@example.net,630.573.1014x99138,Denmark,2020-07-26,4.7,Inactive
+347,graves-hardy,Perry Bell,reevesjulie@example.org,477.576.0777,Germany,2023-07-15,3.1,Inactive
+348,"Torres, Nelson and Nunez",Janet Wiggins,jonathanallen@example.org,(966)554-8635x794,Tonga,2022-03-14,3.0,Active
+349, Hernandez-Berry  ,Shannon Kennedy,,+1-427-323-3294,Barbados,2020-07-13,2.9,Active
+350,Rodriguez Group,William Miller,jessica09@example.org,+1-966-847-2895x66999,French Southern Territories,2025-01-01,2.8,Active
+351,Williams PLC,Kelly Lane,chadharrison@example.com,(854)429-0928x84270,Slovakia (Slovak Republic),2024-10-13,4.2,Inactive
+352,blake-holt,Brandon Price,timothy06@example.org,001-494-964-9662,Turkey,2023-05-05,4.8,Active
+353,Dominguez-Glover,Nathan Hale,wendychavez@example.org,797.687.7672x1493,Botswana,2022-08-02,4.8,Inactive
+354,Rodriguez Ltd,Nicholas Moore,megan86@example.com,958.724.5761,Christmas Island,2022-11-27,3.2,Inactive
+355,Serrano-Simmons,Jacob Klein,ncampos@example.com,001-285-434-9388,Peru,2024-01-29,2.8,Active
+356,Knight and Sons,Stephanie Ortiz,jsmith@example.net,001-477-715-3342x05685,Micronesia,2022-04-09,3.2,Inactive
+357,"Reed, Perry and Nelson",Tammy Martin,abigailwhite@example.com,855.863.1472x14744,Mongolia,2021-03-14,2.9,Active
+358,Hood-King,Megan Martinez,barberalexandra@example.org,+1-581-213-3322x60405,Haiti,2025-02-05,4.0,Inactive
+359, Brown Ltd  ,Mallory Kelley,,(366)243-6435x53256,Cambodia,2022-07-21,2.7,Inactive
+360,LEE-BROWN,Mary Clark,gina09@example.com,405.743.0618x0950,Dominican Republic,2022-07-29,3.2,Inactive
+361, Gonzalez Ltd  ,Kara Mathews,haroldperez@example.net,350.700.7831x206,United States of America,2025-06-27,2.8,Active
+362,"WHITE, MASON AND ROGERS",Curtis Mccann,aprilwebb@example.net,504-838-5690x510,New Caledonia,2021-04-07,3.3,Active
+363,Flynn Ltd,Mr. John Tucker,gary96@example.org,001-635-218-0283x3770,British Indian Ocean Territory (Chagos Archipelago),2020-07-26,2.6,Active
+364,Romero-Ruiz,Kayla Nelson,espinozaeric@example.com,759-650-5093,Israel,2023-12-14,4.7,Inactive
+365,BLAIR-VARGAS,Gregory Mendoza,iprice@example.org,673-641-5634x101,Iceland,2021-11-12,2.6,Inactive
+366,Gutierrez Ltd,Sylvia Cole,rking@example.org,+1-582-960-2543x889,Indonesia,2021-04-26,4.6,Inactive
+367,Bryant and Sons,Jennifer Franklin,jacobsmarvin@example.net,001-847-663-7072,Venezuela,2022-02-10,3.7,Inactive
+368,"Shaw, Austin and Flores",Cheyenne Brown,jodi95@example.com,(690)894-4701x125,Netherlands,2025-03-09,4.3,Inactive
+369,GREEN-SULLIVAN,Elizabeth Pacheco,gschaefer@example.net,+1-250-213-2149x1218,Morocco,2021-04-11,5.0,Active
+370,"LONG, BARTLETT AND ANDERSEN",Brenda Duncan,christophergarcia@example.org,(717)791-3212x54466,Bulgaria,2021-09-25,4.3,Active
+371,"Anderson, Jensen and Becker",Mark Miller,luis12@example.org,873-929-7141,Nepal,2024-08-13,3.5,Inactive
+372,Frazier-Warren,Brittany Reed,ngutierrez@example.net,(944)479-8186,Iran,2023-01-24,3.6,Active
+373,Gutierrez-Rodriguez,Robert Obrien,hkaiser@example.net,558-458-8073,Latvia,2021-10-28,2.8,Active
+374,Morton-Porter,Brandon Martin,smithdavid@example.com,(821)741-0878x39094,Northern Mariana Islands,2021-10-22,4.4,Active
+375,"Martin, King and Hernandez",Lisa Murphy,valenciaemily@example.org,+1-786-387-7757,Saint Vincent and the Grenadines,2021-06-27,3.0,Inactive
+376,GENTRY-OWEN,Diane Gay,alicia60@example.net,950.764.8497x071,Sao Tome and Principe,2022-07-29,4.3,Active
+377,"Lopez, Hayes and Martinez",Emily Lawson,johnsimmons@example.org,893.944.8968x2726,Lesotho,2024-05-04,4.2,Inactive
+378,"Smith, Martinez and Golden",Carmen Decker,williamsjames@example.org,001-797-413-7772x5311,French Guiana,2024-06-01,3.4,Inactive
+379,HOWARD LLC,Robert Hess,egarcia@example.org,+1-632-341-3884x49956,Slovakia (Slovak Republic),2025-07-06,4.2,Inactive
+380,"Jones, Salazar and Martinez",Derek Pacheco,isabella23@example.com,9385431237,Anguilla,2022-12-28,3.8,Active
+381,KNIGHT LLC,Victoria Hodges,williammanning@example.org,563-674-7625,Marshall Islands,2022-05-21,4.2,Inactive
+382,Rowland-Lewis,Susan Foster,aashley@example.com,001-214-797-7497,Nigeria,2022-11-03,4.6,Active
+383,Duarte-Vega,Thomas Stewart,erica59@example.org,+1-284-244-6049x838,Guatemala,2024-03-19,4.8,Active
+384,"andrews, jones and terry",David Smith,knewman@example.com,668-618-4404x431,Tanzania,2025-07-08,3.2,Active
+385,Wells Inc,Alexandra Hines,heathermorton@example.org,601.640.5088x8527,Isle of Man,2024-08-21,3.6,Active
+386, Adams and Sons  ,Kim Travis,grahamlinda@example.com,3849044983,Gibraltar,2024-11-24,3.8,Inactive
+387,Spence LLC,Anthony Stewart,qmathews@example.net,555-258-8853,Georgia,2021-08-01,3.9,Active
+388,chen ltd,Laurie Ayala,nathan68@example.net,659-851-8948x51812,Australia,2022-05-29,2.7,Active
+389,"ARNOLD, GREENE AND WELCH",Mrs. Stephanie Valencia,dcooper@example.org,+1-930-985-8816,Oman,2023-05-21,2.5,Inactive
+390,roth-cook,Tricia Mckinney,rhonda63@example.com,608.308.1985x8156,Lithuania,2021-05-18,3.7,Inactive
+391,jackson ltd,Veronica Trevino,elizabethparker@example.org,(475)557-3304,Dominica,2022-05-26,4.1,Inactive
+392,"SMITH, HILL AND BERRY",Eric Rivas,calvinnelson@example.net,001-988-527-5173x52792,Sudan,2023-08-10,2.6,Inactive
+393," Gonzalez, Clark and Martinez  ",Maria Gutierrez,hallrichard@example.com,681.999.2141x72541,Haiti,2022-04-24,3.9,Active
+394,jimenez llc,Scott Haynes,kfuller@example.net,+1-697-834-6825,Mayotte,2020-07-12,4.1,Active
+395,"Cook, Smith and Moreno",Kaitlin Stevenson,jasminerivera@example.org,859.391.3901x44624,Germany,2025-06-18,3.6,Inactive
+396,"Peterson, Stewart and Rogers",Christina Blair,victoriaday@example.org,+1-779-270-6396x6249,Romania,2022-05-21,3.8,Active
+397, Floyd-Gilbert  ,Dylan Brown,kaufmanchase@example.org,328-598-2685,Ukraine,2025-03-08,3.5,Inactive
+398,SIMMONS GROUP,William Greene,tracygoodman@example.net,001-418-824-2703x7712,United States Virgin Islands,2021-05-07,2.9,Active
+399,Soto and Sons,Charles Chambers,vgray@example.com,(382)413-9723,Uganda,2025-02-08,4.1,Active
+400,Davis-Griffith,Robert Grimes,eric29@example.com,(619)571-5508x77514,Bouvet Island (Bouvetoya),2021-09-22,2.5,Active
+401,holt-morgan,Vanessa Munoz,nswanson@example.net,+1-578-830-9346x849,Japan,2021-02-16,3.4,Inactive
+402,"Davis, Green and Mccarthy",Tammy Lopez,wsanders@example.net,2187798527,Austria,2022-10-25,3.1,Inactive
+403,Kennedy and Sons,Linda Graham,cherylperry@example.org,(317)548-8484x6955,Bangladesh,2023-09-06,3.7,Active
+404,PATTON INC,Leah Johnson,johnsonchristopher@example.com,(958)961-3464x689,Mozambique,2023-11-15,4.4,Inactive
+405,"Jones, Sanchez and Jones",Tina Sullivan,codydavies@example.com,(282)364-2007x2256,Cambodia,2024-11-25,4.8,Active
+406,osborn-roberts,Anthony Johnson,stephen25@example.org,9618225801,Comoros,2023-04-26,3.9,Active
+407,"Williams, Gonzalez and Stewart",Joshua Lester,katherinephillips@example.net,530-512-8166x162,Grenada,2024-07-05,4.7,Inactive
+408,"Campbell, Oconnor and Payne",David Moreno,hernandezandrea@example.org,+1-844-618-6492x762,South Georgia and the South Sandwich Islands,2021-12-09,4.7,Inactive
+409,Wells Group,Heather Burke,kellysara@example.com,(661)216-8813,Nigeria,2023-01-27,3.7,Inactive
+410," Pollard, Jones and Herrera  ",Sierra George,chavezjennifer@example.org,(570)222-3912x266,Trinidad and Tobago,2023-03-29,4.6,Active
+411,"TURNER, GARNER AND RODRIGUEZ",Joanna Howell,rharris@example.net,3238496832,American Samoa,2021-09-09,3.2,Inactive
+412,"hunter, carson and velasquez",Gary Williams,joshua87@example.net,+1-595-940-1191x684,Honduras,2020-08-18,4.0,Active
+413,Santos PLC,Lisa Schwartz,ygallagher@example.net,832-733-1586,Tuvalu,2022-01-16,4.0,Inactive
+414,shelton plc,Robert Wilson,ncarr@example.com,001-330-749-9513,Australia,2024-08-02,4.1,Inactive
+415,Yang Ltd,Brenda Randolph,catherine97@example.net,001-763-715-4868x11777,Vietnam,2022-11-23,4.1,Inactive
+416,"Mendoza, Walker and Barnes",Barry Lane,halvarez@example.org,650.914.2899x05193,Mauritius,2023-01-12,4.5,Inactive
+417,Sanchez and Sons,Anthony Reed,carl17@example.net,223-772-0805x025,Azerbaijan,2025-04-30,4.9,Inactive
+418,"Smith, Simmons and Murray",William Schmidt,rodriguezjoshua@example.com,348.917.6777x548,Thailand,2024-10-13,2.9,Inactive
+419," FREEMAN, MANN AND CLARK  ",John Rodriguez,catherine18@example.com,577-927-0899,Spain,2024-10-16,4.1,Inactive
+420, CASEY-BYRD  ,Pamela Ramirez,grant61@example.org,+1-369-547-4313x284,Guinea-Bissau,2022-11-06,3.2,Active
+421, Ferguson-Howard  ,Donna Harris,wardchristopher@example.net,(404)990-3241x70142,Equatorial Guinea,2023-08-26,3.8,Active
+422,MARTIN INC,Maureen Robbins,burnsgwendolyn@example.org,(593)435-9100,Ireland,2021-05-22,4.5,Active
+423,Morales-Cook,Wayne Brady,andrew94@example.net,489.788.6286,North Macedonia,2023-10-29,4.4,Active
+424,"Miller, Walker and Stanton",William Shaffer,herrerabrian@example.org,971.412.7521x4421,Seychelles,2025-05-07,3.3,Active
+425,MORALES LLC,Rodney Carlson,christopher95@example.net,001-525-750-6226x896,Israel,2024-08-30,3.9,Active
+426,"Preston, Glover and Riley",Jennifer Medina,jacksonangela@example.org,237-805-9375,Kuwait,2022-11-09,3.7,Active
+427," jackson, johnson and powers  ",Laurie Jennings,ramoslisa@example.net,4598755751,Israel,2024-03-25,4.3,Active
+428,Sullivan-Andrews,Emma Key,hscott@example.com,826-787-3317,Luxembourg,2022-03-18,4.4,Active
+429, Garcia-Oliver  ,Stephen Anthony,beanrebecca@example.org,612-836-4373,Heard Island and McDonald Islands,2020-08-01,4.2,Active
+430,marks-mccarty,Emily Aguirre,elizabethfritz@example.net,(732)703-8503x3053,Guernsey,2021-04-22,3.7,Inactive
+431,Matthews-Olson,Thomas Campbell,gerald25@example.org,(234)376-8685x241,Grenada,2025-02-22,4.5,Active
+432, Hunt-Curry  ,Christopher Miller,michaelwilson@example.org,9659327807,Romania,2024-10-06,2.9,Active
+433,Hoffman-Sullivan,James Guzman,garciaaaron@example.net,(784)479-8157,Fiji,2020-07-12,4.0,Active
+434,"smith, ramirez and martinez",Alan Saunders,gregory20@example.net,777-338-5023,Botswana,2021-06-26,4.3,Active
+435,"Norris, Lee and Lewis",Gary Simmons,kevin84@example.net,(251)788-0571,United Arab Emirates,2021-07-10,4.5,Inactive
+436,"FRANCIS, HENRY AND VASQUEZ",Sean Freeman,brandon48@example.com,(567)763-9682,French Guiana,2021-10-07,4.8,Inactive
+437,Adams Inc,Lisa Guerrero,blake42@example.com,595-496-2884x49028,Faroe Islands,2022-09-15,3.9,Active
+438,Lee-Lyons,Eric Collins,rogersmatthew@example.org,(622)500-0623x550,Cook Islands,2024-11-28,2.6,Inactive
+439,"Simon, King and Nguyen",Mary Mendoza,markramirez@example.org,937.346.9388x225,Saint Lucia,2021-02-06,4.5,Inactive
+440, Buchanan PLC  ,Angela Wilson,murphychristy@example.com,745.871.1930x16133,Saint Martin,2022-01-11,2.5,Inactive
+441,Alexander LLC,Ralph Rowe,ihall@example.org,001-323-823-6435x50457,Kuwait,2024-10-29,2.6,Inactive
+442,"Hill, Brewer and Jordan",Cynthia Erickson,crystalpennington@example.net,339-656-1572x4550,United States of America,2022-09-18,2.9,Active
+443,Wolf-Romero,Jessica Harvey,david79@example.net,+1-701-900-8850x85916,Saudi Arabia,2024-07-30,4.4,Active
+444,"turner, suarez and castaneda",Herbert Phillips,turnerderek@example.com,001-669-928-7991x96736,Norway,2024-02-10,4.7,Inactive
+445,Johnson Inc,Derek James,rojaszachary@example.com,557-777-9194,Tanzania,2021-02-19,4.9,Inactive
+446," Jimenez, Martinez and Strong  ",Tara Anderson,ybarnes@example.com,001-503-449-0547x054,Gibraltar,2023-12-12,3.2,Inactive
+447,"Kerr, Wilson and Campos",Nicholas Casey,debra63@example.net,(336)522-9992x591,Guyana,2022-12-30,3.5,Active
+448,WILLIAMSON LLC,Shane Phillips,msanchez@example.com,958.271.2428,Georgia,2024-05-12,3.4,Inactive
+449,Green-Bell,James Lamb,sylvia88@example.net,319.685.1887,Suriname,2023-08-26,3.2,Active
+450, robertson-arias  ,Karen Townsend,ryan82@example.net,534.748.9276x374,Saint Martin,2021-06-17,3.8,Inactive
+451,Alvarado-Roberts,Kayla Ayers,robertsalexander@example.org,(819)886-4031x02905,Ukraine,2023-06-24,4.3,Inactive
+452,"Koch, Ruiz and Price",Nancy Phillips,christopherjarvis@example.com,001-382-613-1029,Saint Helena,2021-04-25,2.5,Inactive
+453,"MAY, RANGEL AND HANNA",Nancy Taylor,gregoryjohnson@example.net,(564)494-7873x79419,Guernsey,2022-10-23,4.8,Inactive
+454,"DUKE, GREGORY AND FOSTER",Kristy Hunt,brandon60@example.org,255.264.1491x3559,Russian Federation,2025-06-05,4.2,Active
+455, Arroyo-Murray  ,Lisa Snyder,eward@example.com,840-791-5488,Mozambique,2023-01-29,3.7,Active
+456,SMITH PLC,Daniel Sharp,wwalker@example.com,258-704-8573,Greece,2025-04-08,3.7,Active
+457,Evans Ltd,Brian Smith,vhernandez@example.org,+1-253-300-4606x13736,Solomon Islands,2023-08-12,3.4,Active
+458,sullivan-reed,Joshua Horn,bondricky@example.net,(913)917-5987x38778,Belgium,2023-06-17,4.8,Active
+459, Campbell PLC  ,Glen Velasquez,michellehenderson@example.com,831-577-1889x697,Greenland,2021-08-31,4.3,Inactive
+460,Underwood-Jensen,Jeffrey Morris,kimmaureen@example.org,650-436-6438,Senegal,2022-06-02,3.7,Active
+461,Lowe Inc,Thomas Decker,angelareynolds@example.net,2513633630,Heard Island and McDonald Islands,2021-12-30,4.5,Active
+462,GAMBLE-HARRIS,Amanda Peck,swong@example.com,001-537-599-8879x5242,Congo,2022-11-23,3.3,Inactive
+463,Tran Ltd,Aaron Stark,jamesstephens@example.net,9769516812,Romania,2020-07-16,3.6,Inactive
+464,"Cole, Robinson and Parker",Rhonda Wright,phyllis37@example.net,001-454-644-9367x424,Canada,2023-05-24,4.8,Inactive
+465, Howard LLC  ,James Dean,josephlawson@example.net,+1-541-448-6817,Barbados,2024-05-20,4.6,Inactive
+466,BAIRD LLC,Kevin Giles,mriley@example.com,766-713-1006,Netherlands Antilles,2023-07-29,3.4,Active
+467, Jones-Oconnor  ,Eric Park,tchan@example.org,+1-888-456-0784x0269,French Guiana,2022-11-11,3.2,Active
+468,"Miles, Guerrero and Richards",Savannah Anderson,lopezheather@example.com,(818)406-0579x64459,Belarus,2023-02-19,3.8,Active
+469,PARKER-CALHOUN,Melinda Johnson,jennifer88@example.org,+1-566-658-9208x168,Dominican Republic,2025-04-25,3.9,Inactive
+470,"CHAPMAN, PARSONS AND KELLY",Phillip Hartman,douglas98@example.com,619.305.9508x5702,Martinique,2022-12-10,2.8,Active
+471,"Williams, Hawkins and Miller",Jessica Coleman,jmartin@example.org,283-811-3129,Bosnia and Herzegovina,2024-12-14,3.2,Active
+472,Davis-Riley,William Martin,lisa24@example.org,(837)367-6606,Norfolk Island,2021-01-06,2.6,Active
+473,ROBINSON-WATKINS,Felicia Joseph,vanessa34@example.org,+1-390-974-3211x22373,Slovenia,2020-08-27,3.0,Active
+474,"horn, miller and lee",Timothy Williams,thomaswalton@example.com,(798)707-9808x0729,Barbados,2023-03-14,3.1,Active
+475,Rogers Group,Joel Payne,charlespatterson@example.org,926.700.0537x5952,Eritrea,2020-09-17,5.0,Active
+476,"MARTIN, SHELTON AND SUAREZ",Meagan Edwards,annahayes@example.org,(367)262-7197x14703,Saint Martin,2021-12-09,4.0,Inactive
+477,"wright, carter and singh",Randall Gonzalez,colechristine@example.org,001-472-604-0499x31084,Czech Republic,2024-02-10,3.1,Inactive
+478,Stephens-Franklin,Trevor Wallace,ifrancis@example.net,+1-825-419-2321x78788,Ethiopia,2021-07-13,4.1,Inactive
+479,Thompson PLC,Jake Hancock,michellegutierrez@example.org,(202)779-3440x74322,Isle of Man,2022-12-21,2.8,Active
+480,Dorsey LLC,Kim Lawson,allenwilliam@example.net,(502)305-3996x459,South Africa,2025-02-10,3.1,Active
+481,"Marshall, Williams and Lawrence",Michael Parker,hoffmanian@example.org,462-896-1263x1455,Gibraltar,2022-04-01,3.7,Active
+482,"Brown, Collins and Schaefer",Zachary Sandoval,geoffrey59@example.com,449.392.2925x35258,Austria,2023-06-05,4.2,Active
+483,Hill-Johnson,Beth Hunt,greenamanda@example.net,803.599.7251,Palestinian Territory,2021-12-03,3.5,Active
+484,Turner-Flores,Tracy Jones,coreygarcia@example.com,580.662.9688x7679,Uruguay,2022-05-20,2.7,Active
+485,Sharp LLC,Robert Brooks,matthew12@example.com,9357226946,Ethiopia,2023-02-21,4.3,Active
+486,cox-dawson,Sandra Vega,hstevens@example.org,(543)865-0947x391,Micronesia,2022-07-02,4.8,Inactive
+487,Stein-Harrison,David Hall,hawkinsmegan@example.net,369-652-5417x7226,Aruba,2020-07-18,4.3,Inactive
+488," Malone, Rowe and Weaver  ",Virginia Diaz,michaelstein@example.com,001-253-752-2271x05301,Anguilla,2024-01-05,3.1,Inactive
+489,Miranda LLC,Steve Blackburn,heather31@example.net,331.352.4542,French Polynesia,2024-09-02,3.1,Inactive
+490,Arnold Ltd,Jill Gonzalez,mark95@example.net,001-376-384-6598x80618,Saint Martin,2024-12-03,3.7,Inactive
+491,"MANNING, NORTON AND PETERSON",Christine Washington,katherine20@example.com,+1-646-798-9305x1439,Cote d'Ivoire,2023-09-19,4.5,Active
+492,roman-zavala,Brian Alexander,uramirez@example.net,(471)635-1992x42000,Greece,2023-11-12,4.0,Active
+493,blackburn-mitchell,Shane Brown,dominicpierce@example.net,+1-966-562-8633x780,Bangladesh,2023-06-12,2.8,Active
+494,Meadows PLC,Monica Rivera,leeelijah@example.com,+1-245-308-6909,Montenegro,2020-12-07,4.7,Active
+495,roberts and sons,James Smith,pclark@example.com,369-526-5406,Guinea,2021-03-16,3.9,Inactive
+496,"SMITH, MORGAN AND JENKINS",Jonathan Smith,jenniferallison@example.org,721.365.4251x94157,Guadeloupe,2023-11-19,2.8,Active
+497,Rush LLC,Edward Robertson,vickie41@example.net,001-386-524-1963x70983,Guadeloupe,2024-01-23,3.3,Active
+498,Newton LLC,Richard Morgan,kmanning@example.org,(922)801-0703x793,Egypt,2023-09-01,4.7,Active
+499,"PRICE, STUART AND REYES",Anna Gilbert,bjohnson@example.org,281-629-8907,Norfolk Island,2023-09-15,2.5,Active
+500," Sellers, Glover and Ho  ",Steven Galvan,kstanley@example.net,471.555.9371,Czech Republic,2025-05-25,4.6,Inactive
